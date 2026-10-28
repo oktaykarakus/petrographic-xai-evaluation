@@ -1,0 +1,10 @@
+{
+  "python": "3.12.3 | packaged by conda-forge | (main, Apr 15 2024, 18:35:20) [Clang 16.0.6 ]",
+  "executable": "/opt/anaconda3/bin/python",
+  "platform": "macOS-26.7.1-arm64-arm-64bit",
+  "numpy": "1.26.4",
+  "matplotlib": "3.9.1",
+  "backend": "Agg",
+  "workload": "Numeric saved-output reanalysis and CPU bootstrap/plotting only. No torch import, model, checkpoint or image inference.",
+  "dependency_installations": false
+}

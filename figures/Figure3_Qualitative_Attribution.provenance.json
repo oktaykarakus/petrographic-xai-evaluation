@@ -1,0 +1,46 @@
+{
+  "sources": {
+    "stage2_gradcam.png": "09ce444d43131af588b4c125e21cda50fc5752bbd9269f6aed5637dea767130a",
+    "stage4b_chefer_branch.png": "c5e2d43440e49c97545f6131f64a447193f859896199aaef55aee01c9dcc570c",
+    "stage4_chefer_cross.png": "547cee43dd40e5794ebc3060df212b33a15d63ca20de865f3e66fb919a238b66",
+    "stage3a_fusion_crossattn.png": "6e18a836607e0cd9de9a258795a78d1ce7308447cc7b456a41f94083f4ca5111",
+    "stage3b_rollout.png": "32b70f8435e521059a9b890da913e3fe9cebe511d792ac0e961599733d5d93ab"
+  },
+  "agreement_reference": {
+    "stage4_fidelity_ladder_grid.png": "152d2df01aace45e9c77e54f0a5b5ab94187509114ce0eecfbab47d6831760b1"
+  },
+  "agreement_min_pearson_r": 0.9912,
+  "agreement_panels_checked": 24,
+  "grains": {
+    "a": "GMAS_LOTE2/Muestra366/170 (Monocrystalline; exemplar row 1)",
+    "b": "GMAS_LOTE/486/181 (Polycrystalline; exemplar row 3)"
+  },
+  "panel_px": [
+    267,
+    266
+  ],
+  "resampling": "none (crop and paste at 1:1)",
+  "column_order": [
+    "Input",
+    "Grad-CAM",
+    "Chefer branch",
+    "Chefer cross",
+    "Cross-attention",
+    "Rollout"
+  ],
+  "row_order": [
+    "a PPL",
+    "a XPL",
+    "b PPL",
+    "b XPL"
+  ],
+  "annotations": "column and group headers, row labels, panel letters, centre ticks outside the input panels",
+  "rights_status": "NOT CLEARED: derived from LITHOS imagery (CC BY-NC-SA 4.0); written permission required before any release",
+  "output": "Figure3_Qualitative_Attribution.png",
+  "output_size_px": [
+    1808,
+    1288
+  ],
+  "width_at_180mm_dpi": 255.1,
+  "output_sha256": "3726d0e3c9f9671029291a32f660301d7bfffdbb6f2845059d2e6adc0fbe8c09"
+}

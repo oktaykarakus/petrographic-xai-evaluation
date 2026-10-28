@@ -1,0 +1,23 @@
+{
+  "n": 706,
+  "classes": 25,
+  "larger_XPL_mean_drop_classes": 20,
+  "larger_PPL_mean_drop_classes": 5,
+  "class_n_range": [
+    15,
+    30
+  ],
+  "equal_class_mean_PPL_drop": 0.2805157682083331,
+  "equal_class_mean_XPL_drop": 0.4156863221909371,
+  "equal_class_mean_difference": 0.13517055398260389,
+  "n_weighted_mean_PPL_drop": 0.28137588138868846,
+  "n_weighted_mean_XPL_drop": 0.4192588322713645,
+  "n_weighted_mean_difference": 0.13788295088267605,
+  "class_difference_range": [
+    -0.07785509433597326,
+    0.5352723198632399
+  ],
+  "grain_or_section_uncertainty_identifiable": false,
+  "weighting_note": "n-weighted averages of retained class means; no missing row outcomes inferred",
+  "scope": "706 selected correct fold2 cases, historic mean-fill; fill retains channel averages and changes spatial structure/contrast/cross-modal consistency"
+}

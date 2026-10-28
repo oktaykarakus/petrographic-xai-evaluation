@@ -1,0 +1,26 @@
+Category,Grains,"Mean reduction, PPL replaced","Mean reduction, XPL replaced",XPL minus PPL
+Monocrystalline,30,0.2256,0.1751,-0.0505
+Rock fragment,30,0.1314,0.3662,0.2348
+Polycrystalline,30,0.1484,0.1104,-0.0380
+Feldspar,30,0.1560,0.1605,0.0045
+Quartz,30,0.4123,0.3876,-0.0247
+Plagioclase,30,0.3325,0.5970,0.2645
+Foraminifer,30,0.3709,0.2981,-0.0728
+Fossil fragment,30,0.2534,0.3597,0.1063
+Opaque,18,0.2119,0.2952,0.0833
+Amphibole,30,0.3325,0.4401,0.1076
+Calcareous fossil,30,0.3789,0.5892,0.2102
+Red algae,30,0.0707,0.6060,0.5353
+Mica,30,0.2590,0.4803,0.2213
+Calcite,30,0.2719,0.3829,0.1110
+Muscovite,30,0.3521,0.3975,0.0454
+Heavy mineral,18,0.3789,0.3011,-0.0779
+Coral,30,0.2817,0.5079,0.2261
+Hornblende,30,0.4094,0.5174,0.1080
+Microcline,29,0.2517,0.5351,0.2834
+Pyroxene,30,0.3366,0.3915,0.0549
+Dolomite,30,0.5034,0.6391,0.1357
+Echinoderm,30,0.4186,0.5115,0.0929
+Sanidine,15,0.2184,0.4428,0.2244
+Crystalline mosaic,26,0.2795,0.3590,0.0795
+Other (merged),30,0.0270,0.5411,0.5141

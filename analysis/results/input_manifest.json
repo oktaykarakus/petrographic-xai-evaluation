@@ -1,0 +1,177 @@
+{
+  "inputs": [
+    {
+      "relative_path": "code/pipeline/cache/preds_mc25_a_fold2.npz",
+      "path": "../data/saved_records/code/pipeline/cache/preds_mc25_a_fold2.npz",
+      "bytes": 52654,
+      "sha256": "7e1132bf5b4ab93ec1bca6e039874883ce08fa261f5b416f78c53415a929025a",
+      "schema": {
+        "y_true": {
+          "shape": [
+            53010
+          ],
+          "dtype": "int64"
+        },
+        "y_pred": {
+          "shape": [
+            53010
+          ],
+          "dtype": "int64"
+        }
+      }
+    },
+    {
+      "relative_path": "code/pipeline/cache/preds_mc25_b_fold1.npz",
+      "path": "../data/saved_records/code/pipeline/cache/preds_mc25_b_fold1.npz",
+      "bytes": 51909,
+      "sha256": "204312ad8369b1186f8cb271f69058bbbe18ed88e9ebd3532237b3b1258f4a3d",
+      "schema": {
+        "y_true": {
+          "shape": [
+            52792
+          ],
+          "dtype": "int64"
+        },
+        "y_pred": {
+          "shape": [
+            52792
+          ],
+          "dtype": "int64"
+        }
+      }
+    },
+    {
+      "relative_path": "code/pipeline/cache/modality_reliance_25class.csv",
+      "path": "../data/saved_records/code/pipeline/cache/modality_reliance_25class.csv",
+      "bytes": 2054,
+      "sha256": "deb330364a8e8f9f77851859b71f01b55351974bc12beeb6d77c7c63aa31a25b",
+      "schema": {
+        "columns": [
+          "class",
+          "name",
+          "n",
+          "drop_noPPL",
+          "drop_noXPL",
+          "xpl_reliance",
+          "leans"
+        ],
+        "rows": 25
+      }
+    },
+    {
+      "relative_path": "code/pipeline/cache/irof_aoc_per_grain.csv",
+      "path": "../data/saved_records/code/pipeline/cache/irof_aoc_per_grain.csv",
+      "bytes": 27875,
+      "sha256": "2be4c7820e2e1a2ee14d98e5cab16068d918f291167df6eb589753cf7e9dbc41",
+      "schema": {
+        "columns": [
+          "sec_patch",
+          "name",
+          "branch",
+          "method",
+          "aoc"
+        ],
+        "rows": 360
+      }
+    },
+    {
+      "relative_path": "code/pipeline/pipelineLithosXAI.ipynb",
+      "present": false,
+      "expected_sha256": "e4fe8b99d36f82dbe3d2db5e66be001d8ba3f3ecae39b5e3255a672ff0437b3e",
+      "bytes": 22197440,
+      "note": "provenance-only input; not distributed"
+    },
+    {
+      "relative_path": "code/external/lithos/polar_vit_arch.py",
+      "present": false,
+      "expected_sha256": "1c9900de1282c8daf117a6c5a74707c01f659e8d27e7ef23acf769fccbe14e55",
+      "bytes": 7666,
+      "note": "provenance-only input; not distributed"
+    },
+    {
+      "relative_path": "code/pipeline/runs/2026-08-20_baseline-ranking-metrics.json",
+      "path": "../data/saved_records/code/pipeline/runs/2026-08-20_baseline-ranking-metrics.json",
+      "bytes": 1996,
+      "sha256": "d80a1a2518833f2a06a2af5a0cbe9d504dadf70da6613bef9868778f2b9e9163",
+      "schema": {
+        "top_level_keys": [
+          "date",
+          "source",
+          "lithos_commit",
+          "checkpoints",
+          "torch",
+          "device",
+          "seed",
+          "n_total",
+          "n_classes",
+          "averaging",
+          "per_fold",
+          "fold_mean",
+          "pooled"
+        ]
+      }
+    },
+    {
+      "relative_path": "code/pipeline/runs/2026-07-20_irof-fidelity.json",
+      "path": "../data/saved_records/code/pipeline/runs/2026-07-20_irof-fidelity.json",
+      "bytes": 5041,
+      "sha256": "5657e4265293ce3ab146c0a43d2f04858f7dd18f4541187004b47cbb3c677233",
+      "schema": {
+        "top_level_keys": [
+          "date",
+          "what",
+          "config",
+          "n_grains",
+          "classes",
+          "aoc_mean",
+          "fractions",
+          "mean_curves"
+        ]
+      }
+    },
+    {
+      "relative_path": "code/pipeline/runs/2026-07-14_irof-fidelity.json",
+      "path": "../data/saved_records/code/pipeline/runs/2026-07-14_irof-fidelity.json",
+      "bytes": 5041,
+      "sha256": "9b5eddca9223da0ea49e6ea947cee3669c453c78f84d6d26b59a31d71f5918cd",
+      "schema": {
+        "top_level_keys": [
+          "date",
+          "what",
+          "config",
+          "n_grains",
+          "classes",
+          "aoc_mean",
+          "fractions",
+          "mean_curves"
+        ]
+      }
+    },
+    {
+      "relative_path": "code/pipeline/runs/2026-07-29_irof-fidelity.json",
+      "path": "../data/saved_records/code/pipeline/runs/2026-07-29_irof-fidelity.json",
+      "bytes": 5041,
+      "sha256": "0e63a19f01e6f9d40d2b84c72c9ade522f7ec343c01c8b60a3f7138ef6f4fc70",
+      "schema": {
+        "top_level_keys": [
+          "date",
+          "what",
+          "config",
+          "n_grains",
+          "classes",
+          "aoc_mean",
+          "fractions",
+          "mean_curves"
+        ]
+      }
+    }
+  ],
+  "original_records_copied": false,
+  "recorded_class_labels_source": "modality_reliance_25class.csv class/name; not independent raw annotation verification",
+  "linkage_limits": {
+    "baseline": "nominal fold/checkpoint from filenames and run record; no grain/section rows",
+    "ablation": "class-level aggregates only; no706-row linkage",
+    "irof": "exact sec_patch + name + branch + method in same CSV; section key parsed from batch/section prefix",
+    "other_recovered_ID_sets": "not joined to outcomes without demonstrated row linkage"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "records": [
+    {
+      "source": "code/pipeline/runs/2026-07-20_irof-fidelity.json",
+      "recorded_date": "2026-07-20",
+      "n_grains": 30,
+      "config": {
+        "n_segments": 60,
+        "n_steps": 20,
+        "n_per_class": 5,
+        "r_repeats": 3,
+        "seed": 0,
+        "fill": "global per-channel image mean",
+        "checkpoint": "polarvit_multiclass25_a.pth"
+      },
+      "aggregate_aoc_max_abs_rounding_difference_from_CSV": 4.88226117401902e-05,
+      "rounded_mean_curve_payload_sha256": "7d22ed869431dec07f56689cb8e64295dca86d1925698ce9c41f8ca00ce03a47",
+      "has_per_grain_curves": false,
+      "has_individual_random_orders": false
+    },
+    {
+      "source": "code/pipeline/runs/2026-07-14_irof-fidelity.json",
+      "recorded_date": "2026-07-14",
+      "n_grains": 30,
+      "config": {
+        "n_segments": 60,
+        "n_steps": 20,
+        "n_per_class": 5,
+        "r_repeats": 3,
+        "seed": 0,
+        "fill": "global per-channel image mean",
+        "checkpoint": "polarvit_multiclass25_a.pth"
+      },
+      "aggregate_aoc_max_abs_rounding_difference_from_CSV": 4.88226117401902e-05,
+      "rounded_mean_curve_payload_sha256": "7d22ed869431dec07f56689cb8e64295dca86d1925698ce9c41f8ca00ce03a47",
+      "has_per_grain_curves": false,
+      "has_individual_random_orders": false
+    },
+    {
+      "source": "code/pipeline/runs/2026-07-29_irof-fidelity.json",
+      "recorded_date": "2026-07-29",
+      "n_grains": 30,
+      "config": {
+        "n_segments": 60,
+        "n_steps": 20,
+        "n_per_class": 5,
+        "r_repeats": 3,
+        "seed": 0,
+        "fill": "global per-channel image mean",
+        "checkpoint": "polarvit_multiclass25_a.pth"
+      },
+      "aggregate_aoc_max_abs_rounding_difference_from_CSV": 4.88226117401902e-05,
+      "rounded_mean_curve_payload_sha256": "7d22ed869431dec07f56689cb8e64295dca86d1925698ce9c41f8ca00ce03a47",
+      "has_per_grain_curves": false,
+      "has_individual_random_orders": false
+    }
+  ],
+  "warning": "Dated records may duplicate the same aggregate payload. Matching rounded means does not establish independent runs or complete input/curve provenance."
+}

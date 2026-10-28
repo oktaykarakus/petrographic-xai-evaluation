@@ -1,0 +1,7 @@
+# Versions used for the saved-output analysis (Python 3.12.3). Matches analysis/results/environment.json.
+numpy==1.26.4
+matplotlib==3.9.1
+scikit-learn==1.5.1  # analysis/scripts/verify.py only
+pillow==10.4.0       # scripts/compose_figure3.py only
+# The original experiments (original_experiments/) additionally used PyTorch 2.5.0 with CUDA, torchvision,
+# scikit-image and pytorch-grad-cam; the last two versions were not recorded. They are not needed here.

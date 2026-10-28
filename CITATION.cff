@@ -1,0 +1,60 @@
+cff-version: 1.2.0
+message: >-
+  If you use these materials, please cite the associated article (citation details to be completed on
+  publication) and the LITHOS publication by Chacón et al. (2025).
+type: software
+title: >-
+  Taxonomic error structure, polarisation sensitivity and attribution behaviour of a dual-stream vision
+  transformer for thin-section petrography
+authors:
+  - given-names: Thomas James
+    family-names: Wood
+    affiliation: Department of Earth and Environmental Sciences, Cardiff University, Cardiff, United Kingdom
+  - given-names: Oktay
+    family-names: Karakuş
+    affiliation: >-
+      Department of Earth and Environmental Sciences and Department of Computer Science and Informatics,
+      Cardiff University, Cardiff, United Kingdom
+  - given-names: Can
+    family-names: Eyüpoğlu
+    affiliation: >-
+      Department of Computer Science and Informatics, Cardiff University, Cardiff, United Kingdom; Department of
+      Computer Engineering, Turkish Air Force Academy, National Defence University, Istanbul, Türkiye
+keywords:
+  - petrography
+  - thin section
+  - vision transformer
+  - explainable artificial intelligence
+  - attribution evaluation
+  - LITHOS
+preferred-citation:
+  type: article
+  title: >-
+    Taxonomic error structure, polarisation sensitivity and attribution behaviour of a dual-stream vision
+    transformer for thin-section petrography
+  authors:
+    - given-names: Thomas James
+      family-names: Wood
+    - given-names: Oktay
+      family-names: Karakuş
+    - given-names: Can
+      family-names: Eyüpoğlu
+  journal: Scientific Reports
+  status: in-preparation
+  notes: "Placeholder: volume, article number, year and DOI to be added on publication."
+references:
+  - type: conference-paper
+    title: Towards automated petrography
+    authors:
+      - given-names: I. D.
+        family-names: Chacón
+      - given-names: P.
+        family-names: Ruiz Puentes
+      - given-names: J.
+        family-names: Pearse
+      - given-names: P.
+        family-names: Arbeláez
+    collection-title: Advances in Neural Information Processing Systems
+    volume: 38
+    year: 2025
+    doi: 10.52202/085713-3740

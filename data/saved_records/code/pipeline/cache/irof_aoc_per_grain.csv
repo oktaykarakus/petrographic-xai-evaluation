@@ -1,0 +1,361 @@
+sec_patch,name,branch,method,aoc
+GMAS_LOTE/333/154/ppl-0.png,Monocrystalline,PPL,Grad-CAM,0.06477087969873452
+GMAS_LOTE/333/154/ppl-0.png,Monocrystalline,PPL,cross-attn,0.0825253970482771
+GMAS_LOTE/333/154/ppl-0.png,Monocrystalline,PPL,rollout,0.04581641332775932
+GMAS_LOTE/333/154/ppl-0.png,Monocrystalline,PPL,Chefer cross,0.09932420183630564
+GMAS_LOTE/333/154/ppl-0.png,Monocrystalline,PPL,Chefer branch,0.07054334177690391
+GMAS_LOTE/333/154/ppl-0.png,Monocrystalline,PPL,random,0.07075610737395448
+GMAS_LOTE/333/154/ppl-0.png,Monocrystalline,XPL,Grad-CAM,0.25941861407798616
+GMAS_LOTE/333/154/ppl-0.png,Monocrystalline,XPL,cross-attn,0.28000619223243317
+GMAS_LOTE/333/154/ppl-0.png,Monocrystalline,XPL,rollout,0.31964625914891553
+GMAS_LOTE/333/154/ppl-0.png,Monocrystalline,XPL,Chefer cross,0.15958737908748155
+GMAS_LOTE/333/154/ppl-0.png,Monocrystalline,XPL,Chefer branch,0.21151699517902578
+GMAS_LOTE/333/154/ppl-0.png,Monocrystalline,XPL,random,0.22786820841114422
+GMAS_LOTE/181/30/ppl-0.png,Monocrystalline,PPL,Grad-CAM,0.28657774315323936
+GMAS_LOTE/181/30/ppl-0.png,Monocrystalline,PPL,cross-attn,0.33335046435511384
+GMAS_LOTE/181/30/ppl-0.png,Monocrystalline,PPL,rollout,0.12649449636769838
+GMAS_LOTE/181/30/ppl-0.png,Monocrystalline,PPL,Chefer cross,0.15586961701858892
+GMAS_LOTE/181/30/ppl-0.png,Monocrystalline,PPL,Chefer branch,0.23209625621174657
+GMAS_LOTE/181/30/ppl-0.png,Monocrystalline,PPL,random,0.3496864872385365
+GMAS_LOTE/181/30/ppl-0.png,Monocrystalline,XPL,Grad-CAM,0.23643017273682798
+GMAS_LOTE/181/30/ppl-0.png,Monocrystalline,XPL,cross-attn,0.12961919261859012
+GMAS_LOTE/181/30/ppl-0.png,Monocrystalline,XPL,rollout,0.08115323804892016
+GMAS_LOTE/181/30/ppl-0.png,Monocrystalline,XPL,Chefer cross,0.09568353570424604
+GMAS_LOTE/181/30/ppl-0.png,Monocrystalline,XPL,Chefer branch,0.16200890564001524
+GMAS_LOTE/181/30/ppl-0.png,Monocrystalline,XPL,random,0.16112873798761618
+GMAS_LOTE2/Muestra146/177/ppl-0.png,Monocrystalline,PPL,Grad-CAM,0.0886680826227716
+GMAS_LOTE2/Muestra146/177/ppl-0.png,Monocrystalline,PPL,cross-attn,0.01489102840423584
+GMAS_LOTE2/Muestra146/177/ppl-0.png,Monocrystalline,PPL,rollout,0.1068694312521754
+GMAS_LOTE2/Muestra146/177/ppl-0.png,Monocrystalline,PPL,Chefer cross,0.16875542858813664
+GMAS_LOTE2/Muestra146/177/ppl-0.png,Monocrystalline,PPL,Chefer branch,0.1856446659311335
+GMAS_LOTE2/Muestra146/177/ppl-0.png,Monocrystalline,PPL,random,0.15862162104735136
+GMAS_LOTE2/Muestra146/177/ppl-0.png,Monocrystalline,XPL,Grad-CAM,-0.013710293276556706
+GMAS_LOTE2/Muestra146/177/ppl-0.png,Monocrystalline,XPL,cross-attn,-0.021965373179008152
+GMAS_LOTE2/Muestra146/177/ppl-0.png,Monocrystalline,XPL,rollout,0.28511462026628953
+GMAS_LOTE2/Muestra146/177/ppl-0.png,Monocrystalline,XPL,Chefer cross,-0.2578383869138259
+GMAS_LOTE2/Muestra146/177/ppl-0.png,Monocrystalline,XPL,Chefer branch,-0.15625180560967045
+GMAS_LOTE2/Muestra146/177/ppl-0.png,Monocrystalline,XPL,random,-0.218457768189496
+GMAS_LOTE2/Muestra116/165/ppl-0.png,Monocrystalline,PPL,Grad-CAM,0.010006441908367636
+GMAS_LOTE2/Muestra116/165/ppl-0.png,Monocrystalline,PPL,cross-attn,-0.009890186584601945
+GMAS_LOTE2/Muestra116/165/ppl-0.png,Monocrystalline,PPL,rollout,-0.026663761017686305
+GMAS_LOTE2/Muestra116/165/ppl-0.png,Monocrystalline,PPL,Chefer cross,0.020337482630196302
+GMAS_LOTE2/Muestra116/165/ppl-0.png,Monocrystalline,PPL,Chefer branch,-0.009953060392606128
+GMAS_LOTE2/Muestra116/165/ppl-0.png,Monocrystalline,PPL,random,0.009006544021563348
+GMAS_LOTE2/Muestra116/165/ppl-0.png,Monocrystalline,XPL,Grad-CAM,0.477377806224075
+GMAS_LOTE2/Muestra116/165/ppl-0.png,Monocrystalline,XPL,cross-attn,0.4375950916140686
+GMAS_LOTE2/Muestra116/165/ppl-0.png,Monocrystalline,XPL,rollout,0.525712304839901
+GMAS_LOTE2/Muestra116/165/ppl-0.png,Monocrystalline,XPL,Chefer cross,0.4379614328636843
+GMAS_LOTE2/Muestra116/165/ppl-0.png,Monocrystalline,XPL,Chefer branch,0.4591528747011635
+GMAS_LOTE2/Muestra116/165/ppl-0.png,Monocrystalline,XPL,random,0.4328649192074545
+GMAS_LOTE2/Muestra393/4/ppl-0.png,Monocrystalline,PPL,Grad-CAM,0.4234473996974052
+GMAS_LOTE2/Muestra393/4/ppl-0.png,Monocrystalline,PPL,cross-attn,0.3199496865272522
+GMAS_LOTE2/Muestra393/4/ppl-0.png,Monocrystalline,PPL,rollout,0.45075531462405594
+GMAS_LOTE2/Muestra393/4/ppl-0.png,Monocrystalline,PPL,Chefer cross,0.23129509357695888
+GMAS_LOTE2/Muestra393/4/ppl-0.png,Monocrystalline,PPL,Chefer branch,0.518347421859173
+GMAS_LOTE2/Muestra393/4/ppl-0.png,Monocrystalline,PPL,random,0.4145690403508802
+GMAS_LOTE2/Muestra393/4/ppl-0.png,Monocrystalline,XPL,Grad-CAM,-0.24513241356494397
+GMAS_LOTE2/Muestra393/4/ppl-0.png,Monocrystalline,XPL,cross-attn,-0.05433123719458499
+GMAS_LOTE2/Muestra393/4/ppl-0.png,Monocrystalline,XPL,rollout,-0.010394047288333708
+GMAS_LOTE2/Muestra393/4/ppl-0.png,Monocrystalline,XPL,Chefer cross,0.2542042796518287
+GMAS_LOTE2/Muestra393/4/ppl-0.png,Monocrystalline,XPL,Chefer branch,-0.2761131945778341
+GMAS_LOTE2/Muestra393/4/ppl-0.png,Monocrystalline,XPL,random,-0.09981686422248282
+GMAS_LOTE/192/9/ppl-0.png,Polycrystalline,PPL,Grad-CAM,-0.016198764244715447
+GMAS_LOTE/192/9/ppl-0.png,Polycrystalline,PPL,cross-attn,0.0007646953066189344
+GMAS_LOTE/192/9/ppl-0.png,Polycrystalline,PPL,rollout,0.03359713902076078
+GMAS_LOTE/192/9/ppl-0.png,Polycrystalline,PPL,Chefer cross,-0.028804627557595497
+GMAS_LOTE/192/9/ppl-0.png,Polycrystalline,PPL,Chefer branch,0.031186065326134327
+GMAS_LOTE/192/9/ppl-0.png,Polycrystalline,PPL,random,0.04048199786080257
+GMAS_LOTE/192/9/ppl-0.png,Polycrystalline,XPL,Grad-CAM,0.45156083913410416
+GMAS_LOTE/192/9/ppl-0.png,Polycrystalline,XPL,cross-attn,0.3096274698481841
+GMAS_LOTE/192/9/ppl-0.png,Polycrystalline,XPL,rollout,0.2664298204814687
+GMAS_LOTE/192/9/ppl-0.png,Polycrystalline,XPL,Chefer cross,0.4635508977899364
+GMAS_LOTE/192/9/ppl-0.png,Polycrystalline,XPL,Chefer branch,0.17147236010607547
+GMAS_LOTE/192/9/ppl-0.png,Polycrystalline,XPL,random,0.2608309653070238
+GMAS_LOTE2/Muestra336/74/ppl-0.png,Polycrystalline,PPL,Grad-CAM,0.26823169876027986
+GMAS_LOTE2/Muestra336/74/ppl-0.png,Polycrystalline,PPL,cross-attn,0.11276160898032006
+GMAS_LOTE2/Muestra336/74/ppl-0.png,Polycrystalline,PPL,rollout,0.20647198072186213
+GMAS_LOTE2/Muestra336/74/ppl-0.png,Polycrystalline,PPL,Chefer cross,0.22271482922412733
+GMAS_LOTE2/Muestra336/74/ppl-0.png,Polycrystalline,PPL,Chefer branch,0.16621836357646513
+GMAS_LOTE2/Muestra336/74/ppl-0.png,Polycrystalline,PPL,random,0.2893905522830692
+GMAS_LOTE2/Muestra336/74/ppl-0.png,Polycrystalline,XPL,Grad-CAM,0.384841339095779
+GMAS_LOTE2/Muestra336/74/ppl-0.png,Polycrystalline,XPL,cross-attn,0.18971563681312242
+GMAS_LOTE2/Muestra336/74/ppl-0.png,Polycrystalline,XPL,rollout,0.3976153796133789
+GMAS_LOTE2/Muestra336/74/ppl-0.png,Polycrystalline,XPL,Chefer cross,0.31331842878590466
+GMAS_LOTE2/Muestra336/74/ppl-0.png,Polycrystalline,XPL,Chefer branch,0.28840921268514963
+GMAS_LOTE2/Muestra336/74/ppl-0.png,Polycrystalline,XPL,random,0.36559053801971936
+GMAS_LOTE2/Muestra387/208/ppl-0.png,Polycrystalline,PPL,Grad-CAM,0.1351065227278958
+GMAS_LOTE2/Muestra387/208/ppl-0.png,Polycrystalline,PPL,cross-attn,0.19108282636713092
+GMAS_LOTE2/Muestra387/208/ppl-0.png,Polycrystalline,PPL,rollout,0.12896929736490592
+GMAS_LOTE2/Muestra387/208/ppl-0.png,Polycrystalline,PPL,Chefer cross,0.15612504658875637
+GMAS_LOTE2/Muestra387/208/ppl-0.png,Polycrystalline,PPL,Chefer branch,0.20716793890352592
+GMAS_LOTE2/Muestra387/208/ppl-0.png,Polycrystalline,PPL,random,0.16890606946415385
+GMAS_LOTE2/Muestra387/208/ppl-0.png,Polycrystalline,XPL,Grad-CAM,0.10019827015856464
+GMAS_LOTE2/Muestra387/208/ppl-0.png,Polycrystalline,XPL,cross-attn,0.04437999015158789
+GMAS_LOTE2/Muestra387/208/ppl-0.png,Polycrystalline,XPL,rollout,0.3098932428562895
+GMAS_LOTE2/Muestra387/208/ppl-0.png,Polycrystalline,XPL,Chefer cross,0.44903810353989304
+GMAS_LOTE2/Muestra387/208/ppl-0.png,Polycrystalline,XPL,Chefer branch,0.37248491289767804
+GMAS_LOTE2/Muestra387/208/ppl-0.png,Polycrystalline,XPL,random,0.0858305062808044
+GMAS_LOTE2/Muestra300/91/ppl-0.png,Polycrystalline,PPL,Grad-CAM,0.033987337467717205
+GMAS_LOTE2/Muestra300/91/ppl-0.png,Polycrystalline,PPL,cross-attn,0.033085376608605443
+GMAS_LOTE2/Muestra300/91/ppl-0.png,Polycrystalline,PPL,rollout,0.03308404660692399
+GMAS_LOTE2/Muestra300/91/ppl-0.png,Polycrystalline,PPL,Chefer cross,0.025214218625835283
+GMAS_LOTE2/Muestra300/91/ppl-0.png,Polycrystalline,PPL,Chefer branch,0.04929795685936422
+GMAS_LOTE2/Muestra300/91/ppl-0.png,Polycrystalline,PPL,random,0.060333496604869606
+GMAS_LOTE2/Muestra300/91/ppl-0.png,Polycrystalline,XPL,Grad-CAM,0.05724075684944774
+GMAS_LOTE2/Muestra300/91/ppl-0.png,Polycrystalline,XPL,cross-attn,0.04249878600239765
+GMAS_LOTE2/Muestra300/91/ppl-0.png,Polycrystalline,XPL,rollout,0.04362237701813376
+GMAS_LOTE2/Muestra300/91/ppl-0.png,Polycrystalline,XPL,Chefer cross,0.04214765007297194
+GMAS_LOTE2/Muestra300/91/ppl-0.png,Polycrystalline,XPL,Chefer branch,0.06484470516443264
+GMAS_LOTE2/Muestra300/91/ppl-0.png,Polycrystalline,XPL,random,0.0751859901679887
+GMAS_LOTE2/Muestra203/153/ppl-0.png,Polycrystalline,PPL,Grad-CAM,0.1047193385087527
+GMAS_LOTE2/Muestra203/153/ppl-0.png,Polycrystalline,PPL,cross-attn,0.07976323595413792
+GMAS_LOTE2/Muestra203/153/ppl-0.png,Polycrystalline,PPL,rollout,0.15365453866811885
+GMAS_LOTE2/Muestra203/153/ppl-0.png,Polycrystalline,PPL,Chefer cross,0.11868168299014747
+GMAS_LOTE2/Muestra203/153/ppl-0.png,Polycrystalline,PPL,Chefer branch,0.09746297047688413
+GMAS_LOTE2/Muestra203/153/ppl-0.png,Polycrystalline,PPL,random,0.08895374719913185
+GMAS_LOTE2/Muestra203/153/ppl-0.png,Polycrystalline,XPL,Grad-CAM,0.12064682650116254
+GMAS_LOTE2/Muestra203/153/ppl-0.png,Polycrystalline,XPL,cross-attn,0.34438029437694906
+GMAS_LOTE2/Muestra203/153/ppl-0.png,Polycrystalline,XPL,rollout,0.16525314101633026
+GMAS_LOTE2/Muestra203/153/ppl-0.png,Polycrystalline,XPL,Chefer cross,0.3307535682084426
+GMAS_LOTE2/Muestra203/153/ppl-0.png,Polycrystalline,XPL,Chefer branch,0.22382501498708174
+GMAS_LOTE2/Muestra203/153/ppl-0.png,Polycrystalline,XPL,random,0.16874628396903935
+GMAS_LOTE/397/127/ppl-0.png,Quartz,PPL,Grad-CAM,0.5009001115473306
+GMAS_LOTE/397/127/ppl-0.png,Quartz,PPL,cross-attn,0.3528397548489455
+GMAS_LOTE/397/127/ppl-0.png,Quartz,PPL,rollout,0.5769328089748942
+GMAS_LOTE/397/127/ppl-0.png,Quartz,PPL,Chefer cross,0.30052443030403886
+GMAS_LOTE/397/127/ppl-0.png,Quartz,PPL,Chefer branch,0.5263900382489692
+GMAS_LOTE/397/127/ppl-0.png,Quartz,PPL,random,0.5047080310864177
+GMAS_LOTE/397/127/ppl-0.png,Quartz,XPL,Grad-CAM,0.21335328302600176
+GMAS_LOTE/397/127/ppl-0.png,Quartz,XPL,cross-attn,0.17349469119852245
+GMAS_LOTE/397/127/ppl-0.png,Quartz,XPL,rollout,0.2710048718885941
+GMAS_LOTE/397/127/ppl-0.png,Quartz,XPL,Chefer cross,-0.10519220883196057
+GMAS_LOTE/397/127/ppl-0.png,Quartz,XPL,Chefer branch,-0.05644456364891748
+GMAS_LOTE/397/127/ppl-0.png,Quartz,XPL,random,0.22160656276074323
+GMAS_LOTE/85/121/ppl-0.png,Quartz,PPL,Grad-CAM,0.008700518653942835
+GMAS_LOTE/85/121/ppl-0.png,Quartz,PPL,cross-attn,0.09424190337841343
+GMAS_LOTE/85/121/ppl-0.png,Quartz,PPL,rollout,0.022565291478083838
+GMAS_LOTE/85/121/ppl-0.png,Quartz,PPL,Chefer cross,0.03901532521614659
+GMAS_LOTE/85/121/ppl-0.png,Quartz,PPL,Chefer branch,0.1563162562938838
+GMAS_LOTE/85/121/ppl-0.png,Quartz,PPL,random,0.010775773571087869
+GMAS_LOTE/85/121/ppl-0.png,Quartz,XPL,Grad-CAM,0.14939094914330375
+GMAS_LOTE/85/121/ppl-0.png,Quartz,XPL,cross-attn,0.09027022785610628
+GMAS_LOTE/85/121/ppl-0.png,Quartz,XPL,rollout,0.24646309404461475
+GMAS_LOTE/85/121/ppl-0.png,Quartz,XPL,Chefer cross,0.13513785490283248
+GMAS_LOTE/85/121/ppl-0.png,Quartz,XPL,Chefer branch,0.2967792252699534
+GMAS_LOTE/85/121/ppl-0.png,Quartz,XPL,random,0.23815872805354035
+GMAS_LOTE2/Muestra176/211/ppl-0.png,Quartz,PPL,Grad-CAM,-0.10832802511074324
+GMAS_LOTE2/Muestra176/211/ppl-0.png,Quartz,PPL,cross-attn,0.07587418027899484
+GMAS_LOTE2/Muestra176/211/ppl-0.png,Quartz,PPL,rollout,0.12280681729316711
+GMAS_LOTE2/Muestra176/211/ppl-0.png,Quartz,PPL,Chefer cross,-0.14537619054317452
+GMAS_LOTE2/Muestra176/211/ppl-0.png,Quartz,PPL,Chefer branch,0.44567565890875727
+GMAS_LOTE2/Muestra176/211/ppl-0.png,Quartz,PPL,random,-0.0174400022987163
+GMAS_LOTE2/Muestra176/211/ppl-0.png,Quartz,XPL,Grad-CAM,0.40430703365577847
+GMAS_LOTE2/Muestra176/211/ppl-0.png,Quartz,XPL,cross-attn,0.42013660523126695
+GMAS_LOTE2/Muestra176/211/ppl-0.png,Quartz,XPL,rollout,0.45185467207206864
+GMAS_LOTE2/Muestra176/211/ppl-0.png,Quartz,XPL,Chefer cross,0.42239798577326637
+GMAS_LOTE2/Muestra176/211/ppl-0.png,Quartz,XPL,Chefer branch,0.358511562055012
+GMAS_LOTE2/Muestra176/211/ppl-0.png,Quartz,XPL,random,0.28629190657498704
+GMAS_LOTE/431/130/ppl-0.png,Quartz,PPL,Grad-CAM,0.026170681352200686
+GMAS_LOTE/431/130/ppl-0.png,Quartz,PPL,cross-attn,0.016763258239497425
+GMAS_LOTE/431/130/ppl-0.png,Quartz,PPL,rollout,0.011907643598058848
+GMAS_LOTE/431/130/ppl-0.png,Quartz,PPL,Chefer cross,0.009082200734511603
+GMAS_LOTE/431/130/ppl-0.png,Quartz,PPL,Chefer branch,0.011268223109452635
+GMAS_LOTE/431/130/ppl-0.png,Quartz,PPL,random,0.018895123315894085
+GMAS_LOTE/431/130/ppl-0.png,Quartz,XPL,Grad-CAM,0.10929621968950542
+GMAS_LOTE/431/130/ppl-0.png,Quartz,XPL,cross-attn,0.3746918415536685
+GMAS_LOTE/431/130/ppl-0.png,Quartz,XPL,rollout,0.31358034635076726
+GMAS_LOTE/431/130/ppl-0.png,Quartz,XPL,Chefer cross,0.2783784696034022
+GMAS_LOTE/431/130/ppl-0.png,Quartz,XPL,Chefer branch,0.22091512716546347
+GMAS_LOTE/431/130/ppl-0.png,Quartz,XPL,random,0.26727163791656494
+GMAS_LOTE/464/84/ppl-0.png,Quartz,PPL,Grad-CAM,0.06397181176222277
+GMAS_LOTE/464/84/ppl-0.png,Quartz,PPL,cross-attn,0.09125545506293964
+GMAS_LOTE/464/84/ppl-0.png,Quartz,PPL,rollout,0.07625650557187891
+GMAS_LOTE/464/84/ppl-0.png,Quartz,PPL,Chefer cross,0.06842003533473373
+GMAS_LOTE/464/84/ppl-0.png,Quartz,PPL,Chefer branch,0.16673697645847618
+GMAS_LOTE/464/84/ppl-0.png,Quartz,PPL,random,0.1245875190465879
+GMAS_LOTE/464/84/ppl-0.png,Quartz,XPL,Grad-CAM,0.308461746390985
+GMAS_LOTE/464/84/ppl-0.png,Quartz,XPL,cross-attn,0.3308512142726354
+GMAS_LOTE/464/84/ppl-0.png,Quartz,XPL,rollout,0.19144125434817094
+GMAS_LOTE/464/84/ppl-0.png,Quartz,XPL,Chefer cross,0.28498630742637476
+GMAS_LOTE/464/84/ppl-0.png,Quartz,XPL,Chefer branch,0.16366617655267524
+GMAS_LOTE/464/84/ppl-0.png,Quartz,XPL,random,0.25158752794979383
+GMAS_LOTE2/Muestra035/362/ppl-0.png,Rock fragment,PPL,Grad-CAM,0.23278350347564358
+GMAS_LOTE2/Muestra035/362/ppl-0.png,Rock fragment,PPL,cross-attn,0.209927138828096
+GMAS_LOTE2/Muestra035/362/ppl-0.png,Rock fragment,PPL,rollout,0.23318734197389512
+GMAS_LOTE2/Muestra035/362/ppl-0.png,Rock fragment,PPL,Chefer cross,0.12133142777851647
+GMAS_LOTE2/Muestra035/362/ppl-0.png,Rock fragment,PPL,Chefer branch,0.25099621358371926
+GMAS_LOTE2/Muestra035/362/ppl-0.png,Rock fragment,PPL,random,0.19540820755655805
+GMAS_LOTE2/Muestra035/362/ppl-0.png,Rock fragment,XPL,Grad-CAM,0.2603014443408359
+GMAS_LOTE2/Muestra035/362/ppl-0.png,Rock fragment,XPL,cross-attn,0.14197738875042298
+GMAS_LOTE2/Muestra035/362/ppl-0.png,Rock fragment,XPL,rollout,0.09484287283637305
+GMAS_LOTE2/Muestra035/362/ppl-0.png,Rock fragment,XPL,Chefer cross,0.17391546070575725
+GMAS_LOTE2/Muestra035/362/ppl-0.png,Rock fragment,XPL,Chefer branch,0.21867903931574395
+GMAS_LOTE2/Muestra035/362/ppl-0.png,Rock fragment,XPL,random,0.203183435355172
+GMAS_LOTE2/Muestra155/94/ppl-0.png,Rock fragment,PPL,Grad-CAM,-0.11828387172325794
+GMAS_LOTE2/Muestra155/94/ppl-0.png,Rock fragment,PPL,cross-attn,-0.25790081594301295
+GMAS_LOTE2/Muestra155/94/ppl-0.png,Rock fragment,PPL,rollout,-0.2686108506244158
+GMAS_LOTE2/Muestra155/94/ppl-0.png,Rock fragment,PPL,Chefer cross,-0.13596219990564418
+GMAS_LOTE2/Muestra155/94/ppl-0.png,Rock fragment,PPL,Chefer branch,-0.19105216212894605
+GMAS_LOTE2/Muestra155/94/ppl-0.png,Rock fragment,PPL,random,-0.12338197792785754
+GMAS_LOTE2/Muestra155/94/ppl-0.png,Rock fragment,XPL,Grad-CAM,0.5959542471170425
+GMAS_LOTE2/Muestra155/94/ppl-0.png,Rock fragment,XPL,cross-attn,0.005619621276855558
+GMAS_LOTE2/Muestra155/94/ppl-0.png,Rock fragment,XPL,rollout,0.21754144191741942
+GMAS_LOTE2/Muestra155/94/ppl-0.png,Rock fragment,XPL,Chefer cross,0.09220044970512387
+GMAS_LOTE2/Muestra155/94/ppl-0.png,Rock fragment,XPL,Chefer branch,0.764362188577652
+GMAS_LOTE2/Muestra155/94/ppl-0.png,Rock fragment,XPL,random,0.45991645435492207
+GMAS_LOTE2/Muestra134/57/ppl-0.png,Rock fragment,PPL,Grad-CAM,0.008805599212646564
+GMAS_LOTE2/Muestra134/57/ppl-0.png,Rock fragment,PPL,cross-attn,0.015894346237182666
+GMAS_LOTE2/Muestra134/57/ppl-0.png,Rock fragment,PPL,rollout,0.006784017086029159
+GMAS_LOTE2/Muestra134/57/ppl-0.png,Rock fragment,PPL,Chefer cross,0.007274475097656219
+GMAS_LOTE2/Muestra134/57/ppl-0.png,Rock fragment,PPL,Chefer branch,0.004796941280365008
+GMAS_LOTE2/Muestra134/57/ppl-0.png,Rock fragment,PPL,random,0.026716259320577012
+GMAS_LOTE2/Muestra134/57/ppl-0.png,Rock fragment,XPL,Grad-CAM,0.03397103755370423
+GMAS_LOTE2/Muestra134/57/ppl-0.png,Rock fragment,XPL,cross-attn,0.047846100900484245
+GMAS_LOTE2/Muestra134/57/ppl-0.png,Rock fragment,XPL,rollout,0.017680258854575803
+GMAS_LOTE2/Muestra134/57/ppl-0.png,Rock fragment,XPL,Chefer cross,0.021882014430087637
+GMAS_LOTE2/Muestra134/57/ppl-0.png,Rock fragment,XPL,Chefer branch,0.1226385028465935
+GMAS_LOTE2/Muestra134/57/ppl-0.png,Rock fragment,XPL,random,0.0536031109699305
+GMAS_LOTE/140/265/ppl-0.png,Rock fragment,PPL,Grad-CAM,0.07947875204540422
+GMAS_LOTE/140/265/ppl-0.png,Rock fragment,PPL,cross-attn,0.15791948636372877
+GMAS_LOTE/140/265/ppl-0.png,Rock fragment,PPL,rollout,0.1966000099976859
+GMAS_LOTE/140/265/ppl-0.png,Rock fragment,PPL,Chefer cross,0.15989064602624792
+GMAS_LOTE/140/265/ppl-0.png,Rock fragment,PPL,Chefer branch,0.16320339554832086
+GMAS_LOTE/140/265/ppl-0.png,Rock fragment,PPL,random,0.2339149387109848
+GMAS_LOTE/140/265/ppl-0.png,Rock fragment,XPL,Grad-CAM,0.28734026388043465
+GMAS_LOTE/140/265/ppl-0.png,Rock fragment,XPL,cross-attn,0.5107406466489746
+GMAS_LOTE/140/265/ppl-0.png,Rock fragment,XPL,rollout,0.3353867679834365
+GMAS_LOTE/140/265/ppl-0.png,Rock fragment,XPL,Chefer cross,0.46593656036115816
+GMAS_LOTE/140/265/ppl-0.png,Rock fragment,XPL,Chefer branch,0.408464657054061
+GMAS_LOTE/140/265/ppl-0.png,Rock fragment,XPL,random,0.43905423593426507
+GMAS_LOTE/217/52/ppl-0.png,Rock fragment,PPL,Grad-CAM,0.011756088733673065
+GMAS_LOTE/217/52/ppl-0.png,Rock fragment,PPL,cross-attn,0.00886638522148131
+GMAS_LOTE/217/52/ppl-0.png,Rock fragment,PPL,rollout,0.014098124504089316
+GMAS_LOTE/217/52/ppl-0.png,Rock fragment,PPL,Chefer cross,0.005717635154724232
+GMAS_LOTE/217/52/ppl-0.png,Rock fragment,PPL,Chefer branch,0.009361858367919806
+GMAS_LOTE/217/52/ppl-0.png,Rock fragment,PPL,random,0.005029414892196586
+GMAS_LOTE/217/52/ppl-0.png,Rock fragment,XPL,Grad-CAM,0.12747376412153255
+GMAS_LOTE/217/52/ppl-0.png,Rock fragment,XPL,cross-attn,0.012661644390651206
+GMAS_LOTE/217/52/ppl-0.png,Rock fragment,XPL,rollout,0.010571170066084212
+GMAS_LOTE/217/52/ppl-0.png,Rock fragment,XPL,Chefer cross,0.012708607528890914
+GMAS_LOTE/217/52/ppl-0.png,Rock fragment,XPL,Chefer branch,0.09737418911286766
+GMAS_LOTE/217/52/ppl-0.png,Rock fragment,XPL,random,0.036870996866907424
+GMAS_LOTE/247/250/ppl-0.png,Feldspar,PPL,Grad-CAM,0.16131726296051685
+GMAS_LOTE/247/250/ppl-0.png,Feldspar,PPL,cross-attn,0.09631225596303528
+GMAS_LOTE/247/250/ppl-0.png,Feldspar,PPL,rollout,0.016848279082256723
+GMAS_LOTE/247/250/ppl-0.png,Feldspar,PPL,Chefer cross,0.03762804295705713
+GMAS_LOTE/247/250/ppl-0.png,Feldspar,PPL,Chefer branch,0.11037024855613708
+GMAS_LOTE/247/250/ppl-0.png,Feldspar,PPL,random,0.06659756320110262
+GMAS_LOTE/247/250/ppl-0.png,Feldspar,XPL,Grad-CAM,0.19747410549057842
+GMAS_LOTE/247/250/ppl-0.png,Feldspar,XPL,cross-attn,0.02137224100254198
+GMAS_LOTE/247/250/ppl-0.png,Feldspar,XPL,rollout,0.022153468043715985
+GMAS_LOTE/247/250/ppl-0.png,Feldspar,XPL,Chefer cross,0.05587252643373275
+GMAS_LOTE/247/250/ppl-0.png,Feldspar,XPL,Chefer branch,0.35824275679058504
+GMAS_LOTE/247/250/ppl-0.png,Feldspar,XPL,random,0.06295180136774785
+GMAS_LOTE/32/267/ppl-0.png,Feldspar,PPL,Grad-CAM,0.2991378859237388
+GMAS_LOTE/32/267/ppl-0.png,Feldspar,PPL,cross-attn,0.23673124445809268
+GMAS_LOTE/32/267/ppl-0.png,Feldspar,PPL,rollout,0.2502362899206303
+GMAS_LOTE/32/267/ppl-0.png,Feldspar,PPL,Chefer cross,0.22452872053340633
+GMAS_LOTE/32/267/ppl-0.png,Feldspar,PPL,Chefer branch,0.1757759628472505
+GMAS_LOTE/32/267/ppl-0.png,Feldspar,PPL,random,0.2555093125060753
+GMAS_LOTE/32/267/ppl-0.png,Feldspar,XPL,Grad-CAM,-0.010683282145431905
+GMAS_LOTE/32/267/ppl-0.png,Feldspar,XPL,cross-attn,-0.06970936059951782
+GMAS_LOTE/32/267/ppl-0.png,Feldspar,XPL,rollout,-0.05664006301334923
+GMAS_LOTE/32/267/ppl-0.png,Feldspar,XPL,Chefer cross,-0.024125680327415466
+GMAS_LOTE/32/267/ppl-0.png,Feldspar,XPL,Chefer branch,0.0031832382082938038
+GMAS_LOTE/32/267/ppl-0.png,Feldspar,XPL,random,-0.011879233732109936
+GMAS_LOTE/270/78/ppl-0.png,Feldspar,PPL,Grad-CAM,0.5727216427524885
+GMAS_LOTE/270/78/ppl-0.png,Feldspar,PPL,cross-attn,0.5397032135062749
+GMAS_LOTE/270/78/ppl-0.png,Feldspar,PPL,rollout,-0.0009704563352794793
+GMAS_LOTE/270/78/ppl-0.png,Feldspar,PPL,Chefer cross,0.43145989709430266
+GMAS_LOTE/270/78/ppl-0.png,Feldspar,PPL,Chefer branch,0.5119929570290778
+GMAS_LOTE/270/78/ppl-0.png,Feldspar,PPL,random,0.23149418361760957
+GMAS_LOTE/270/78/ppl-0.png,Feldspar,XPL,Grad-CAM,0.5701397232884584
+GMAS_LOTE/270/78/ppl-0.png,Feldspar,XPL,cross-attn,0.15287476639414943
+GMAS_LOTE/270/78/ppl-0.png,Feldspar,XPL,rollout,0.21275480957918402
+GMAS_LOTE/270/78/ppl-0.png,Feldspar,XPL,Chefer cross,0.5865906449251397
+GMAS_LOTE/270/78/ppl-0.png,Feldspar,XPL,Chefer branch,0.7112357446620631
+GMAS_LOTE/270/78/ppl-0.png,Feldspar,XPL,random,0.1720156591067943
+GMAS_LOTE2/Muestra273/149/ppl-0.png,Feldspar,PPL,Grad-CAM,0.4862799035741928
+GMAS_LOTE2/Muestra273/149/ppl-0.png,Feldspar,PPL,cross-attn,0.058018236718279326
+GMAS_LOTE2/Muestra273/149/ppl-0.png,Feldspar,PPL,rollout,0.14344592677786006
+GMAS_LOTE2/Muestra273/149/ppl-0.png,Feldspar,PPL,Chefer cross,-0.024781572057845702
+GMAS_LOTE2/Muestra273/149/ppl-0.png,Feldspar,PPL,Chefer branch,0.3522382365896347
+GMAS_LOTE2/Muestra273/149/ppl-0.png,Feldspar,PPL,random,0.2829267224098773
+GMAS_LOTE2/Muestra273/149/ppl-0.png,Feldspar,XPL,Grad-CAM,0.7116260647221848
+GMAS_LOTE2/Muestra273/149/ppl-0.png,Feldspar,XPL,cross-attn,0.10813611193939499
+GMAS_LOTE2/Muestra273/149/ppl-0.png,Feldspar,XPL,rollout,0.2252312103907267
+GMAS_LOTE2/Muestra273/149/ppl-0.png,Feldspar,XPL,Chefer cross,0.3847572290235096
+GMAS_LOTE2/Muestra273/149/ppl-0.png,Feldspar,XPL,Chefer branch,0.7056352551336642
+GMAS_LOTE2/Muestra273/149/ppl-0.png,Feldspar,XPL,random,0.48966731512804085
+GMAS_LOTE/362/211/ppl-0.png,Feldspar,PPL,Grad-CAM,0.3036624231824169
+GMAS_LOTE/362/211/ppl-0.png,Feldspar,PPL,cross-attn,0.12618631676391323
+GMAS_LOTE/362/211/ppl-0.png,Feldspar,PPL,rollout,0.11993754793096478
+GMAS_LOTE/362/211/ppl-0.png,Feldspar,PPL,Chefer cross,0.15562745266490519
+GMAS_LOTE/362/211/ppl-0.png,Feldspar,PPL,Chefer branch,0.3585379907378444
+GMAS_LOTE/362/211/ppl-0.png,Feldspar,PPL,random,0.23616618506702378
+GMAS_LOTE/362/211/ppl-0.png,Feldspar,XPL,Grad-CAM,-0.13487997703384935
+GMAS_LOTE/362/211/ppl-0.png,Feldspar,XPL,cross-attn,-0.2375011695058722
+GMAS_LOTE/362/211/ppl-0.png,Feldspar,XPL,rollout,-0.14791151619794074
+GMAS_LOTE/362/211/ppl-0.png,Feldspar,XPL,Chefer cross,-0.11495826014301214
+GMAS_LOTE/362/211/ppl-0.png,Feldspar,XPL,Chefer branch,-0.08726530012331524
+GMAS_LOTE/362/211/ppl-0.png,Feldspar,XPL,random,-0.2846020094135351
+GMAS_LOTE/171/203/ppl-0.png,Foraminifer,PPL,Grad-CAM,0.1794037546800531
+GMAS_LOTE/171/203/ppl-0.png,Foraminifer,PPL,cross-attn,0.2392454821130503
+GMAS_LOTE/171/203/ppl-0.png,Foraminifer,PPL,rollout,0.2353353033895078
+GMAS_LOTE/171/203/ppl-0.png,Foraminifer,PPL,Chefer cross,0.222064847531526
+GMAS_LOTE/171/203/ppl-0.png,Foraminifer,PPL,Chefer branch,0.19278201719988952
+GMAS_LOTE/171/203/ppl-0.png,Foraminifer,PPL,random,0.22375481586525411
+GMAS_LOTE/171/203/ppl-0.png,Foraminifer,XPL,Grad-CAM,0.335412890960773
+GMAS_LOTE/171/203/ppl-0.png,Foraminifer,XPL,cross-attn,0.45934712824722124
+GMAS_LOTE/171/203/ppl-0.png,Foraminifer,XPL,rollout,0.34301511508723104
+GMAS_LOTE/171/203/ppl-0.png,Foraminifer,XPL,Chefer cross,0.5624704093982775
+GMAS_LOTE/171/203/ppl-0.png,Foraminifer,XPL,Chefer branch,0.44422838712731993
+GMAS_LOTE/171/203/ppl-0.png,Foraminifer,XPL,random,0.33630298015971977
+GMAS_LOTE/255/194/ppl-0.png,Foraminifer,PPL,Grad-CAM,0.043016281782412014
+GMAS_LOTE/255/194/ppl-0.png,Foraminifer,PPL,cross-attn,0.0751532713572185
+GMAS_LOTE/255/194/ppl-0.png,Foraminifer,PPL,rollout,0.09527320370954617
+GMAS_LOTE/255/194/ppl-0.png,Foraminifer,PPL,Chefer cross,0.0720881527545405
+GMAS_LOTE/255/194/ppl-0.png,Foraminifer,PPL,Chefer branch,0.04079108378466434
+GMAS_LOTE/255/194/ppl-0.png,Foraminifer,PPL,random,0.04921266300226349
+GMAS_LOTE/255/194/ppl-0.png,Foraminifer,XPL,Grad-CAM,0.21525071859359735
+GMAS_LOTE/255/194/ppl-0.png,Foraminifer,XPL,cross-attn,0.10085789940573953
+GMAS_LOTE/255/194/ppl-0.png,Foraminifer,XPL,rollout,0.11112316955219614
+GMAS_LOTE/255/194/ppl-0.png,Foraminifer,XPL,Chefer cross,0.11387583559209657
+GMAS_LOTE/255/194/ppl-0.png,Foraminifer,XPL,Chefer branch,0.10266235091469511
+GMAS_LOTE/255/194/ppl-0.png,Foraminifer,XPL,random,0.1308821858781757
+GMAS_LOTE/125/113/ppl-0.png,Foraminifer,PPL,Grad-CAM,0.06827074527740484
+GMAS_LOTE/125/113/ppl-0.png,Foraminifer,PPL,cross-attn,0.08076890945434567
+GMAS_LOTE/125/113/ppl-0.png,Foraminifer,PPL,rollout,0.07132019400596612
+GMAS_LOTE/125/113/ppl-0.png,Foraminifer,PPL,Chefer cross,0.08833471417427063
+GMAS_LOTE/125/113/ppl-0.png,Foraminifer,PPL,Chefer branch,0.14845434188842777
+GMAS_LOTE/125/113/ppl-0.png,Foraminifer,PPL,random,0.1029703410466513
+GMAS_LOTE/125/113/ppl-0.png,Foraminifer,XPL,Grad-CAM,0.3974266298439192
+GMAS_LOTE/125/113/ppl-0.png,Foraminifer,XPL,cross-attn,0.3031648773214092
+GMAS_LOTE/125/113/ppl-0.png,Foraminifer,XPL,rollout,0.4448439154935919
+GMAS_LOTE/125/113/ppl-0.png,Foraminifer,XPL,Chefer cross,0.3687379269496256
+GMAS_LOTE/125/113/ppl-0.png,Foraminifer,XPL,Chefer branch,0.34441998730535095
+GMAS_LOTE/125/113/ppl-0.png,Foraminifer,XPL,random,0.36096921131230775
+GMAS_LOTE/171/287/ppl-0.png,Foraminifer,PPL,Grad-CAM,0.2838488352007982
+GMAS_LOTE/171/287/ppl-0.png,Foraminifer,PPL,cross-attn,0.33276731066587506
+GMAS_LOTE/171/287/ppl-0.png,Foraminifer,PPL,rollout,0.3028686250128396
+GMAS_LOTE/171/287/ppl-0.png,Foraminifer,PPL,Chefer cross,0.2854121356475644
+GMAS_LOTE/171/287/ppl-0.png,Foraminifer,PPL,Chefer branch,0.30167529204996624
+GMAS_LOTE/171/287/ppl-0.png,Foraminifer,PPL,random,0.33496222844937945
+GMAS_LOTE/171/287/ppl-0.png,Foraminifer,XPL,Grad-CAM,0.3079014962369746
+GMAS_LOTE/171/287/ppl-0.png,Foraminifer,XPL,cross-attn,0.2635731954466213
+GMAS_LOTE/171/287/ppl-0.png,Foraminifer,XPL,rollout,0.297736869616942
+GMAS_LOTE/171/287/ppl-0.png,Foraminifer,XPL,Chefer cross,0.35862652009183715
+GMAS_LOTE/171/287/ppl-0.png,Foraminifer,XPL,Chefer branch,0.3940873349254781
+GMAS_LOTE/171/287/ppl-0.png,Foraminifer,XPL,random,0.2779324768167553
+GMAS_LOTE/179/232/ppl-0.png,Foraminifer,PPL,Grad-CAM,0.06797254085540783
+GMAS_LOTE/179/232/ppl-0.png,Foraminifer,PPL,cross-attn,0.08036990676607403
+GMAS_LOTE/179/232/ppl-0.png,Foraminifer,PPL,rollout,0.07518764053072258
+GMAS_LOTE/179/232/ppl-0.png,Foraminifer,PPL,Chefer cross,0.09941869690304717
+GMAS_LOTE/179/232/ppl-0.png,Foraminifer,PPL,Chefer branch,0.0636757328396752
+GMAS_LOTE/179/232/ppl-0.png,Foraminifer,PPL,random,0.062191293353126086
+GMAS_LOTE/179/232/ppl-0.png,Foraminifer,XPL,Grad-CAM,0.13184740713664467
+GMAS_LOTE/179/232/ppl-0.png,Foraminifer,XPL,cross-attn,0.21960360663277756
+GMAS_LOTE/179/232/ppl-0.png,Foraminifer,XPL,rollout,0.09901021208081917
+GMAS_LOTE/179/232/ppl-0.png,Foraminifer,XPL,Chefer cross,0.19866167363666354
+GMAS_LOTE/179/232/ppl-0.png,Foraminifer,XPL,Chefer branch,0.3076773640655336
+GMAS_LOTE/179/232/ppl-0.png,Foraminifer,XPL,random,0.17590803333691196

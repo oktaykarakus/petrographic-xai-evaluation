@@ -1,0 +1,25 @@
+# Python and tooling
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+.DS_Store
+
+# Matplotlib cache written by analysis/scripts/analyze.py
+analysis/.runtime/
+
+# Third-party material that must not be committed
+*.pth
+*.pt
+*.ckpt
+*.safetensors
+lithos/
+LITHOS*/
+xai_figures_not_distributed/
+# Figure 3 contains LITHOS imagery; keep only its provenance record
+figures/Figure3_Qualitative_Attribution.png
+*.zip
+*.tar
+*.tar.gz

@@ -1,0 +1,247 @@
+class_name,contrast_id,n_grains,n_section_keys,grain_equal_mean,section_equal_mean_within_class,uncertainty
+Feldspar,D|Grad-CAM|PPL,5,5,0.15008503031833306,0.15008503031833306,descriptive only; five grains per class
+Feldspar,D|Grad-CAM|XPL,5,5,0.18110462037300049,0.18110462037300049,descriptive only; five grains per class
+Feldspar,D|Chefer branch|PPL,5,5,0.0872442857916512,0.0872442857916512,descriptive only; five grains per class
+Feldspar,D|Chefer branch|XPL,5,5,0.2525756324428706,0.2525756324428706,descriptive only; five grains per class
+Feldspar,D|Chefer cross|PPL,5,5,-0.0496462851219726,-0.0496462851219726,descriptive only; five grains per class
+Feldspar,D|Chefer cross|XPL,5,5,0.09199658549100329,0.09199658549100329,descriptive only; five grains per class
+Feldspar,D|cross-attn|PPL,5,5,-0.0031485398784186157,-0.0031485398784186157,descriptive only; five grains per class
+Feldspar,D|cross-attn|XPL,5,5,-0.09059618864524832,-0.09059618864524832,descriptive only; five grains per class
+Feldspar,D|rollout|PPL,5,5,-0.10863927588505122,-0.10863927588505122,descriptive only; five grains per class
+Feldspar,D|rollout|XPL,5,5,-0.034513124730920254,-0.034513124730920254,descriptive only; five grains per class
+Feldspar,I|Grad-CAM,5,5,0.031019590054667423,0.031019590054667423,descriptive only; five grains per class
+Feldspar,I|Chefer branch,5,5,0.1653313466512194,0.1653313466512194,descriptive only; five grains per class
+Feldspar,I|Chefer cross,5,5,0.1416428706129759,0.1416428706129759,descriptive only; five grains per class
+Feldspar,I|cross-attn,5,5,-0.0874476487668297,-0.0874476487668297,descriptive only; five grains per class
+Feldspar,I|rollout,5,5,0.07412615115413099,0.07412615115413099,descriptive only; five grains per class
+Feldspar,P|Grad-CAM|Chefer branch|PPL,5,5,0.06284074452668187,0.06284074452668187,descriptive only; five grains per class
+Feldspar,P|Grad-CAM|Chefer branch|XPL,5,5,-0.0714710120698701,-0.0714710120698701,descriptive only; five grains per class
+Feldspar,P|Grad-CAM|Chefer cross|PPL,5,5,0.19973131544030565,0.19973131544030565,descriptive only; five grains per class
+Feldspar,P|Grad-CAM|Chefer cross|XPL,5,5,0.08910803488199719,0.08910803488199719,descriptive only; five grains per class
+Feldspar,P|Grad-CAM|cross-attn|PPL,5,5,0.15323357019675168,0.15323357019675168,descriptive only; five grains per class
+Feldspar,P|Grad-CAM|cross-attn|XPL,5,5,0.2717008090182488,0.2717008090182488,descriptive only; five grains per class
+Feldspar,P|Grad-CAM|rollout|PPL,5,5,0.25872430620338427,0.25872430620338427,descriptive only; five grains per class
+Feldspar,P|Grad-CAM|rollout|XPL,5,5,0.21561774510392073,0.21561774510392073,descriptive only; five grains per class
+Feldspar,P|Chefer branch|Chefer cross|PPL,5,5,0.13689057091362378,0.13689057091362378,descriptive only; five grains per class
+Feldspar,P|Chefer branch|Chefer cross|XPL,5,5,0.16057904695186728,0.16057904695186728,descriptive only; five grains per class
+Feldspar,P|Chefer branch|cross-attn|PPL,5,5,0.09039282567006982,0.09039282567006982,descriptive only; five grains per class
+Feldspar,P|Chefer branch|cross-attn|XPL,5,5,0.3431718210881189,0.3431718210881189,descriptive only; five grains per class
+Feldspar,P|Chefer branch|rollout|PPL,5,5,0.19588356167670243,0.19588356167670243,descriptive only; five grains per class
+Feldspar,P|Chefer branch|rollout|XPL,5,5,0.28708875717379084,0.28708875717379084,descriptive only; five grains per class
+Feldspar,P|Chefer cross|cross-attn|PPL,5,5,-0.04649774524355397,-0.04649774524355397,descriptive only; five grains per class
+Feldspar,P|Chefer cross|cross-attn|XPL,5,5,0.1825927741362516,0.1825927741362516,descriptive only; five grains per class
+Feldspar,P|Chefer cross|rollout|PPL,5,5,0.058992990763078644,0.058992990763078644,descriptive only; five grains per class
+Feldspar,P|Chefer cross|rollout|XPL,5,5,0.12650971022192353,0.12650971022192353,descriptive only; five grains per class
+Feldspar,P|cross-attn|rollout|PPL,5,5,0.10549073600663261,0.10549073600663261,descriptive only; five grains per class
+Feldspar,P|cross-attn|rollout|XPL,5,5,-0.05608306391432807,-0.05608306391432807,descriptive only; five grains per class
+Feldspar,R|Grad-CAM,5,5,-0.09788849681428269,-0.09788849681428269,descriptive only; five grains per class
+Feldspar,R|Chefer branch,5,5,0.03642325978226928,0.03642325978226928,descriptive only; five grains per class
+Feldspar,R|Chefer cross,5,5,0.012734783744025768,0.012734783744025768,descriptive only; five grains per class
+Feldspar,R|cross-attn,5,5,-0.21635573563577984,-0.21635573563577984,descriptive only; five grains per class
+Feldspar,R|rollout,5,5,-0.05478193571481913,-0.05478193571481913,descriptive only; five grains per class
+Feldspar,R|random,5,5,-0.1289080868689501,-0.1289080868689501,descriptive only; five grains per class
+Foraminifer,D|Grad-CAM|PPL,5,4,-0.026115836784119696,-0.020711739175926835,descriptive only; five grains per class
+Foraminifer,D|Grad-CAM|XPL,5,4,0.021168851053607655,0.022826197539350508,descriptive only; five grains per class
+Foraminifer,D|Chefer branch|PPL,5,4,-0.005142574790810275,0.0016042483945843816,descriptive only; five grains per class
+Foraminifer,D|Chefer branch|XPL,5,4,0.06221610736690144,0.049760101074086426,descriptive only; five grains per class
+Foraminifer,D|Chefer cross|PPL,5,4,-0.001154558941145148,0.0049618089655114606,descriptive only; five grains per class
+Foraminifer,D|Chefer cross|XPL,5,4,0.06407549563292599,0.04173668547695252,descriptive only; five grains per class
+Foraminifer,D|cross-attn|PPL,5,4,0.0070427077279778235,0.007141416101935805,descriptive only; five grains per class
+Foraminifer,D|cross-attn|XPL,5,4,0.012910363909979655,0.0025523465478036397,descriptive only; five grains per class
+Foraminifer,D|rollout|PPL,5,4,0.0013787249863815715,0.004287545722012731,descriptive only; five grains per class
+Foraminifer,D|rollout|XPL,5,4,0.0027468788653819574,0.0001190326157652008,descriptive only; five grains per class
+Foraminifer,I|Grad-CAM,5,4,0.04728468783772735,0.043537936715277344,descriptive only; five grains per class
+Foraminifer,I|Chefer branch,5,4,0.06735868215771171,0.04815585267950204,descriptive only; five grains per class
+Foraminifer,I|Chefer cross,5,4,0.06523005457407112,0.03677487651144106,descriptive only; five grains per class
+Foraminifer,I|cross-attn,5,4,0.005867656182001831,-0.004589069554132165,descriptive only; five grains per class
+Foraminifer,I|rollout,5,4,0.0013681538790003833,-0.00416851310624753,descriptive only; five grains per class
+Foraminifer,P|Grad-CAM|Chefer branch|PPL,5,4,-0.02097326199330942,-0.022315987570511217,descriptive only; five grains per class
+Foraminifer,P|Grad-CAM|Chefer branch|XPL,5,4,-0.04104725631329378,-0.026933903534735917,descriptive only; five grains per class
+Foraminifer,P|Grad-CAM|Chefer cross|PPL,5,4,-0.02496127784297455,-0.025673548141438296,descriptive only; five grains per class
+Foraminifer,P|Grad-CAM|Chefer cross|XPL,5,4,-0.04290664457931832,-0.018910487937602014,descriptive only; five grains per class
+Foraminifer,P|Grad-CAM|cross-attn|PPL,5,4,-0.03315854451209752,-0.02785315527786264,descriptive only; five grains per class
+Foraminifer,P|Grad-CAM|cross-attn|XPL,5,4,0.008258487143628002,0.02027385099154687,descriptive only; five grains per class
+Foraminifer,P|Grad-CAM|rollout|PPL,5,4,-0.027494561770501268,-0.024999284897939567,descriptive only; five grains per class
+Foraminifer,P|Grad-CAM|rollout|XPL,5,4,0.0184219721882257,0.022707164923585307,descriptive only; five grains per class
+Foraminifer,P|Chefer branch|Chefer cross|PPL,5,4,-0.0039880158496651275,-0.003357560570927079,descriptive only; five grains per class
+Foraminifer,P|Chefer branch|Chefer cross|XPL,5,4,-0.001859388266024542,0.008023415597133904,descriptive only; five grains per class
+Foraminifer,P|Chefer branch|cross-attn|PPL,5,4,-0.012185282518788098,-0.005537167707351423,descriptive only; five grains per class
+Foraminifer,P|Chefer branch|cross-attn|XPL,5,4,0.04930574345692178,0.047207754526282786,descriptive only; five grains per class
+Foraminifer,P|Chefer branch|rollout|PPL,5,4,-0.006521299777191847,-0.0026832973274283495,descriptive only; five grains per class
+Foraminifer,P|Chefer branch|rollout|XPL,5,4,0.05946922850151948,0.049641068458321225,descriptive only; five grains per class
+Foraminifer,P|Chefer cross|cross-attn|PPL,5,4,-0.00819726666912297,-0.002179607136424344,descriptive only; five grains per class
+Foraminifer,P|Chefer cross|cross-attn|XPL,5,4,0.05116513172294632,0.03918433892914888,descriptive only; five grains per class
+Foraminifer,P|Chefer cross|rollout|PPL,5,4,-0.0025332839275267194,0.0006742632434987295,descriptive only; five grains per class
+Foraminifer,P|Chefer cross|rollout|XPL,5,4,0.06132861676754402,0.04161765286118732,descriptive only; five grains per class
+Foraminifer,P|cross-attn|rollout|PPL,5,4,0.005663982741596252,0.0028538703799230736,descriptive only; five grains per class
+Foraminifer,P|cross-attn|rollout|XPL,5,4,0.010163485044597697,0.002433313932038439,descriptive only; five grains per class
+Foraminifer,R|Grad-CAM,5,4,0.14906539699516658,0.16382402157934617,descriptive only; five grains per class
+Foraminifer,R|Chefer branch,5,4,0.16913939131515093,0.16844193754357087,descriptive only; five grains per class
+Foraminifer,R|Chefer cross,5,4,0.16701076373151033,0.1570609613755099,descriptive only; five grains per class
+Foraminifer,R|cross-attn,5,4,0.10764836533944104,0.11569701530993666,descriptive only; five grains per class
+Foraminifer,R|rollout,5,4,0.1031488630364396,0.1161175717578213,descriptive only; five grains per class
+Foraminifer,R|random,5,4,0.1017807091574392,0.12028608486406883,descriptive only; five grains per class
+Monocrystalline,D|Grad-CAM|PPL,5,5,-0.025833850590353525,-0.025833850590353525,descriptive only; five grains per class
+Monocrystalline,D|Grad-CAM|XPL,5,5,0.04215933060063047,0.04215933060063047,descriptive only; five grains per class
+Monocrystalline,D|Chefer branch|PPL,5,5,-0.0011922349291870083,-0.0011922349291870083,descriptive only; five grains per class
+Monocrystalline,D|Chefer branch|XPL,5,5,-0.020654691572307225,-0.020654691572307225,descriptive only; five grains per class
+Monocrystalline,D|Chefer cross|PPL,5,5,-0.0654115952764199,-0.0654115952764199,descriptive only; five grains per class
+Monocrystalline,D|Chefer cross|XPL,5,5,0.037202201439835714,0.037202201439835714,descriptive only; five grains per class
+Monocrystalline,D|cross-attn|PPL,5,5,-0.05236268205640178,-0.05236268205640178,descriptive only; five grains per class
+Monocrystalline,D|cross-attn|XPL,5,5,0.05346732657945254,0.05346732657945254,descriptive only; five grains per class
+Monocrystalline,D|rollout|PPL,5,5,-0.059873581095656644,-0.059873581095656644,descriptive only; five grains per class
+Monocrystalline,D|rollout|XPL,5,5,0.1395290283642913,0.1395290283642913,descriptive only; five grains per class
+Monocrystalline,I|Grad-CAM,5,5,0.06799318119098399,0.06799318119098399,descriptive only; five grains per class
+Monocrystalline,I|Chefer branch,5,5,-0.01946245664312022,-0.01946245664312022,descriptive only; five grains per class
+Monocrystalline,I|Chefer cross,5,5,0.10261379671625562,0.10261379671625562,descriptive only; five grains per class
+Monocrystalline,I|cross-attn,5,5,0.1058300086358543,0.1058300086358543,descriptive only; five grains per class
+Monocrystalline,I|rollout,5,5,0.19940260945994792,0.19940260945994792,descriptive only; five grains per class
+Monocrystalline,P|Grad-CAM|Chefer branch|PPL,5,5,-0.024641615661166516,-0.024641615661166516,descriptive only; five grains per class
+Monocrystalline,P|Grad-CAM|Chefer branch|XPL,5,5,0.0628140221729377,0.0628140221729377,descriptive only; five grains per class
+Monocrystalline,P|Grad-CAM|Chefer cross|PPL,5,5,0.03957774468606638,0.03957774468606638,descriptive only; five grains per class
+Monocrystalline,P|Grad-CAM|Chefer cross|XPL,5,5,0.00495712916079476,0.00495712916079476,descriptive only; five grains per class
+Monocrystalline,P|Grad-CAM|cross-attn|PPL,5,5,0.02652883146604825,0.02652883146604825,descriptive only; five grains per class
+Monocrystalline,P|Grad-CAM|cross-attn|XPL,5,5,-0.011307995978822061,-0.011307995978822061,descriptive only; five grains per class
+Monocrystalline,P|Grad-CAM|rollout|PPL,5,5,0.03403973050530311,0.03403973050530311,descriptive only; five grains per class
+Monocrystalline,P|Grad-CAM|rollout|XPL,5,5,-0.0973696977636608,-0.0973696977636608,descriptive only; five grains per class
+Monocrystalline,P|Chefer branch|Chefer cross|PPL,5,5,0.0642193603472329,0.0642193603472329,descriptive only; five grains per class
+Monocrystalline,P|Chefer branch|Chefer cross|XPL,5,5,-0.05785689301214294,-0.05785689301214294,descriptive only; five grains per class
+Monocrystalline,P|Chefer branch|cross-attn|PPL,5,5,0.05117044712721477,0.05117044712721477,descriptive only; five grains per class
+Monocrystalline,P|Chefer branch|cross-attn|XPL,5,5,-0.07412201815175976,-0.07412201815175976,descriptive only; five grains per class
+Monocrystalline,P|Chefer branch|rollout|PPL,5,5,0.058681346166469625,0.058681346166469625,descriptive only; five grains per class
+Monocrystalline,P|Chefer branch|rollout|XPL,5,5,-0.1601837199365985,-0.1601837199365985,descriptive only; five grains per class
+Monocrystalline,P|Chefer cross|cross-attn|PPL,5,5,-0.013048913220018133,-0.013048913220018133,descriptive only; five grains per class
+Monocrystalline,P|Chefer cross|cross-attn|XPL,5,5,-0.01626512513961682,-0.01626512513961682,descriptive only; five grains per class
+Monocrystalline,P|Chefer cross|rollout|PPL,5,5,-0.005538014180763273,-0.005538014180763273,descriptive only; five grains per class
+Monocrystalline,P|Chefer cross|rollout|XPL,5,5,-0.10232682692445556,-0.10232682692445556,descriptive only; five grains per class
+Monocrystalline,P|cross-attn|rollout|PPL,5,5,0.0075108990392548595,0.0075108990392548595,descriptive only; five grains per class
+Monocrystalline,P|cross-attn|rollout|XPL,5,5,-0.08606170178483874,-0.08606170178483874,descriptive only; five grains per class
+Monocrystalline,R|Grad-CAM,5,5,-0.03181733217662597,-0.03181733217662597,descriptive only; five grains per class
+Monocrystalline,R|Chefer branch,5,5,-0.11927297001073019,-0.11927297001073019,descriptive only; five grains per class
+Monocrystalline,R|Chefer cross,5,5,0.0028032833486456576,0.0028032833486456576,descriptive only; five grains per class
+Monocrystalline,R|cross-attn,5,5,0.006019495268244346,0.006019495268244346,descriptive only; five grains per class
+Monocrystalline,R|rollout,5,5,0.09959209609233795,0.09959209609233795,descriptive only; five grains per class
+Monocrystalline,R|random,5,5,-0.09981051336760996,-0.09981051336760996,descriptive only; five grains per class
+Polycrystalline,D|Grad-CAM|PPL,5,5,-0.02444394603841939,-0.02444394603841939,descriptive only; five grains per class
+Polycrystalline,D|Grad-CAM|XPL,5,5,0.03166074959889649,0.03166074959889649,descriptive only; five grains per class
+Polycrystalline,D|Chefer branch|PPL,5,5,-0.01934651365393067,-0.01934651365393067,descriptive only; five grains per class
+Polycrystalline,D|Chefer branch|XPL,5,5,0.03297038441916837,0.03297038441916837,descriptive only; five grains per class
+Polycrystalline,D|Chefer cross|PPL,5,5,-0.03082694270815122,-0.03082694270815122,descriptive only; five grains per class
+Polycrystalline,D|Chefer cross|XPL,5,5,0.1285248729305146,0.1285248729305146,descriptive only; five grains per class
+Polycrystalline,D|cross-attn|PPL,5,5,-0.046121624039042755,-0.046121624039042755,descriptive only; five grains per class
+Polycrystalline,D|cross-attn|XPL,5,5,-0.005116421310466898,-0.005116421310466898,descriptive only; five grains per class
+Polycrystalline,D|rollout|PPL,5,5,-0.018457772205891083,-0.018457772205891083,descriptive only; five grains per class
+Polycrystalline,D|rollout|XPL,5,5,0.04532593544820509,0.04532593544820509,descriptive only; five grains per class
+Polycrystalline,I|Grad-CAM,5,5,0.056104695637315884,0.056104695637315884,descriptive only; five grains per class
+Polycrystalline,I|Chefer branch,5,5,0.05231689807309905,0.05231689807309905,descriptive only; five grains per class
+Polycrystalline,I|Chefer cross,5,5,0.15935181563866582,0.15935181563866582,descriptive only; five grains per class
+Polycrystalline,I|cross-attn,5,5,0.04100520272857587,0.04100520272857587,descriptive only; five grains per class
+Polycrystalline,I|rollout,5,5,0.06378370765409616,0.06378370765409616,descriptive only; five grains per class
+Polycrystalline,P|Grad-CAM|Chefer branch|PPL,5,5,-0.00509743238448872,-0.00509743238448872,descriptive only; five grains per class
+Polycrystalline,P|Grad-CAM|Chefer branch|XPL,5,5,-0.0013096348202718878,-0.0013096348202718878,descriptive only; five grains per class
+Polycrystalline,P|Grad-CAM|Chefer cross|PPL,5,5,0.006382996669731833,0.006382996669731833,descriptive only; five grains per class
+Polycrystalline,P|Grad-CAM|Chefer cross|XPL,5,5,-0.09686412333161812,-0.09686412333161812,descriptive only; five grains per class
+Polycrystalline,P|Grad-CAM|cross-attn|PPL,5,5,0.021677678000623368,0.021677678000623368,descriptive only; five grains per class
+Polycrystalline,P|Grad-CAM|cross-attn|XPL,5,5,0.03677717090936339,0.03677717090936339,descriptive only; five grains per class
+Polycrystalline,P|Grad-CAM|rollout|PPL,5,5,-0.005986173832528308,-0.005986173832528308,descriptive only; five grains per class
+Polycrystalline,P|Grad-CAM|rollout|XPL,5,5,-0.013665185849308602,-0.013665185849308602,descriptive only; five grains per class
+Polycrystalline,P|Chefer branch|Chefer cross|PPL,5,5,0.011480429054220554,0.011480429054220554,descriptive only; five grains per class
+Polycrystalline,P|Chefer branch|Chefer cross|XPL,5,5,-0.09555448851134622,-0.09555448851134622,descriptive only; five grains per class
+Polycrystalline,P|Chefer branch|cross-attn|PPL,5,5,0.02677511038511209,0.02677511038511209,descriptive only; five grains per class
+Polycrystalline,P|Chefer branch|cross-attn|XPL,5,5,0.03808680572963528,0.03808680572963528,descriptive only; five grains per class
+Polycrystalline,P|Chefer branch|rollout|PPL,5,5,-0.0008887414480395872,-0.0008887414480395872,descriptive only; five grains per class
+Polycrystalline,P|Chefer branch|rollout|XPL,5,5,-0.012355551029036715,-0.012355551029036715,descriptive only; five grains per class
+Polycrystalline,P|Chefer cross|cross-attn|PPL,5,5,0.015294681330891536,0.015294681330891536,descriptive only; five grains per class
+Polycrystalline,P|Chefer cross|cross-attn|XPL,5,5,0.1336412942409815,0.1336412942409815,descriptive only; five grains per class
+Polycrystalline,P|Chefer cross|rollout|PPL,5,5,-0.01236917050226014,-0.01236917050226014,descriptive only; five grains per class
+Polycrystalline,P|Chefer cross|rollout|XPL,5,5,0.08319893748230951,0.08319893748230951,descriptive only; five grains per class
+Polycrystalline,P|cross-attn|rollout|PPL,5,5,-0.027663851833151676,-0.027663851833151676,descriptive only; five grains per class
+Polycrystalline,P|cross-attn|rollout|XPL,5,5,-0.050442356758671994,-0.050442356758671994,descriptive only; five grains per class
+Polycrystalline,R|Grad-CAM,5,5,0.11772837970382559,0.11772837970382559,descriptive only; five grains per class
+Polycrystalline,R|Chefer branch,5,5,0.11394058213960875,0.11394058213960875,descriptive only; five grains per class
+Polycrystalline,R|Chefer cross,5,5,0.22097549970517552,0.22097549970517552,descriptive only; five grains per class
+Polycrystalline,R|cross-attn,5,5,0.10262888679508557,0.10262888679508557,descriptive only; five grains per class
+Polycrystalline,R|rollout,5,5,0.1254073917206059,0.1254073917206059,descriptive only; five grains per class
+Polycrystalline,R|random,5,5,0.0616236840665097,0.0616236840665097,descriptive only; five grains per class
+Quartz,D|Grad-CAM|PPL,5,5,-0.030022269303263523,-0.030022269303263523,descriptive only; five grains per class
+Quartz,D|Grad-CAM|XPL,5,5,-0.016021426270010998,-0.016021426270010998,descriptive only; five grains per class
+Quartz,D|Chefer branch|PPL,5,5,0.13297214165965357,0.13297214165965357,descriptive only; five grains per class
+Quartz,D|Chefer branch|XPL,5,5,-0.05629776717228856,-0.05629776717228856,descriptive only; five grains per class
+Quartz,D|Chefer cross|PPL,5,5,-0.073972128735003,-0.073972128735003,descriptive only; five grains per class
+Quartz,D|Chefer cross|XPL,5,5,-0.04984159087634284,-0.04984159087634284,descriptive only; five grains per class
+Quartz,D|cross-attn|PPL,5,5,-0.0021103785824960917,-0.0021103785824960917,descriptive only; five grains per class
+Quartz,D|cross-attn|XPL,5,5,0.024905643371314047,0.024905643371314047,descriptive only; five grains per class
+Quartz,D|rollout|PPL,5,5,0.03378852443896233,0.03378852443896233,descriptive only; five grains per class
+Quartz,D|rollout|XPL,5,5,0.04188557508971726,0.04188557508971726,descriptive only; five grains per class
+Quartz,I|Grad-CAM,5,5,0.014000843033252525,0.014000843033252525,descriptive only; five grains per class
+Quartz,I|Chefer branch,5,5,-0.18926990883194214,-0.18926990883194214,descriptive only; five grains per class
+Quartz,I|Chefer cross,5,5,0.02413053785866016,0.02413053785866016,descriptive only; five grains per class
+Quartz,I|cross-attn,5,5,0.027016021953810133,0.027016021953810133,descriptive only; five grains per class
+Quartz,I|rollout,5,5,0.008097050650754934,0.008097050650754934,descriptive only; five grains per class
+Quartz,P|Grad-CAM|Chefer branch|PPL,5,5,-0.16299441096291709,-0.16299441096291709,descriptive only; five grains per class
+Quartz,P|Grad-CAM|Chefer branch|XPL,5,5,0.040276340902277566,0.040276340902277566,descriptive only; five grains per class
+Quartz,P|Grad-CAM|Chefer cross|PPL,5,5,0.04394985943173948,0.04394985943173948,descriptive only; five grains per class
+Quartz,P|Grad-CAM|Chefer cross|XPL,5,5,0.03382016460633184,0.03382016460633184,descriptive only; five grains per class
+Quartz,P|Grad-CAM|cross-attn|PPL,5,5,-0.02791189072076743,-0.02791189072076743,descriptive only; five grains per class
+Quartz,P|Grad-CAM|cross-attn|XPL,5,5,-0.040927069641325045,-0.040927069641325045,descriptive only; five grains per class
+Quartz,P|Grad-CAM|rollout|PPL,5,5,-0.06381079374222584,-0.06381079374222584,descriptive only; five grains per class
+Quartz,P|Grad-CAM|rollout|XPL,5,5,-0.05790700135972826,-0.05790700135972826,descriptive only; five grains per class
+Quartz,P|Chefer branch|Chefer cross|PPL,5,5,0.20694427039465654,0.20694427039465654,descriptive only; five grains per class
+Quartz,P|Chefer branch|Chefer cross|XPL,5,5,-0.0064561762959457255,-0.0064561762959457255,descriptive only; five grains per class
+Quartz,P|Chefer branch|cross-attn|PPL,5,5,0.13508252024214967,0.13508252024214967,descriptive only; five grains per class
+Quartz,P|Chefer branch|cross-attn|XPL,5,5,-0.08120341054360261,-0.08120341054360261,descriptive only; five grains per class
+Quartz,P|Chefer branch|rollout|PPL,5,5,0.09918361722069124,0.09918361722069124,descriptive only; five grains per class
+Quartz,P|Chefer branch|rollout|XPL,5,5,-0.09818334226200583,-0.09818334226200583,descriptive only; five grains per class
+Quartz,P|Chefer cross|cross-attn|PPL,5,5,-0.07186175015250691,-0.07186175015250691,descriptive only; five grains per class
+Quartz,P|Chefer cross|cross-attn|XPL,5,5,-0.07474723424765688,-0.07474723424765688,descriptive only; five grains per class
+Quartz,P|Chefer cross|rollout|PPL,5,5,-0.10776065317396533,-0.10776065317396533,descriptive only; five grains per class
+Quartz,P|Chefer cross|rollout|XPL,5,5,-0.09172716596606009,-0.09172716596606009,descriptive only; five grains per class
+Quartz,P|cross-attn|rollout|PPL,5,5,-0.035898903021458414,-0.035898903021458414,descriptive only; five grains per class
+Quartz,P|cross-attn|rollout|XPL,5,5,-0.01697993171840322,-0.01697993171840322,descriptive only; five grains per class
+Quartz,R|Grad-CAM,5,5,0.13867882674012416,0.13867882674012416,descriptive only; five grains per class
+Quartz,R|Chefer branch,5,5,-0.0645919251250705,-0.0645919251250705,descriptive only; five grains per class
+Quartz,R|Chefer cross,5,5,0.1488085215655318,0.1488085215655318,descriptive only; five grains per class
+Quartz,R|cross-attn,5,5,0.15169400566068175,0.15169400566068175,descriptive only; five grains per class
+Quartz,R|rollout,5,5,0.13277503435762655,0.13277503435762655,descriptive only; five grains per class
+Quartz,R|random,5,5,0.12467798370687162,0.12467798370687162,descriptive only; five grains per class
+Rock fragment,D|Grad-CAM|PPL,5,5,-0.024629354161669875,-0.024629354161669875,descriptive only; five grains per class
+Rock fragment,D|Grad-CAM|XPL,5,5,0.022482504706470553,0.022482504706470553,descriptive only; five grains per class
+Rock fragment,D|Chefer branch|PPL,5,5,-0.020076119180216002,-0.020076119180216002,descriptive only; five grains per class
+Rock fragment,D|Chefer branch|XPL,5,5,0.08377806868514422,0.08377806868514422,descriptive only; five grains per class
+Rock fragment,D|Chefer cross|PPL,5,5,-0.03588697168019164,-0.03588697168019164,descriptive only; five grains per class
+Rock fragment,D|Chefer cross|XPL,5,5,-0.08519702815003585,-0.08519702815003585,descriptive only; five grains per class
+Rock fragment,D|cross-attn|PPL,5,5,-0.04059606036899662,-0.04059606036899662,descriptive only; five grains per class
+Rock fragment,D|cross-attn|XPL,5,5,-0.0947565663027617,-0.0947565663027617,descriptive only; five grains per class
+Rock fragment,D|rollout|PPL,5,5,-0.03112563992303504,-0.03112563992303504,descriptive only; five grains per class
+Rock fragment,D|rollout|XPL,5,5,-0.10332114436466162,-0.10332114436466162,descriptive only; five grains per class
+Rock fragment,I|Grad-CAM,5,5,0.047111858868140434,0.047111858868140434,descriptive only; five grains per class
+Rock fragment,I|Chefer branch,5,5,0.10385418786536023,0.10385418786536023,descriptive only; five grains per class
+Rock fragment,I|Chefer cross,5,5,-0.049310056469844196,-0.049310056469844196,descriptive only; five grains per class
+Rock fragment,I|cross-attn,5,5,-0.05416050593376508,-0.05416050593376508,descriptive only; five grains per class
+Rock fragment,I|rollout,5,5,-0.07219550444162658,-0.07219550444162658,descriptive only; five grains per class
+Rock fragment,P|Grad-CAM|Chefer branch|PPL,5,5,-0.00455323498145388,-0.00455323498145388,descriptive only; five grains per class
+Rock fragment,P|Grad-CAM|Chefer branch|XPL,5,5,-0.06129556397867366,-0.06129556397867366,descriptive only; five grains per class
+Rock fragment,P|Grad-CAM|Chefer cross|PPL,5,5,0.011257617518521768,0.011257617518521768,descriptive only; five grains per class
+Rock fragment,P|Grad-CAM|Chefer cross|XPL,5,5,0.1076795328565064,0.1076795328565064,descriptive only; five grains per class
+Rock fragment,P|Grad-CAM|cross-attn|PPL,5,5,0.015966706207326743,0.015966706207326743,descriptive only; five grains per class
+Rock fragment,P|Grad-CAM|cross-attn|XPL,5,5,0.11723907100923225,0.11723907100923225,descriptive only; five grains per class
+Rock fragment,P|Grad-CAM|rollout|PPL,5,5,0.006496285761365161,0.006496285761365161,descriptive only; five grains per class
+Rock fragment,P|Grad-CAM|rollout|XPL,5,5,0.12580364907113217,0.12580364907113217,descriptive only; five grains per class
+Rock fragment,P|Chefer branch|Chefer cross|PPL,5,5,0.015810852499975648,0.015810852499975648,descriptive only; five grains per class
+Rock fragment,P|Chefer branch|Chefer cross|XPL,5,5,0.16897509683518006,0.16897509683518006,descriptive only; five grains per class
+Rock fragment,P|Chefer branch|cross-attn|PPL,5,5,0.020519941188780623,0.020519941188780623,descriptive only; five grains per class
+Rock fragment,P|Chefer branch|cross-attn|XPL,5,5,0.17853463498790592,0.17853463498790592,descriptive only; five grains per class
+Rock fragment,P|Chefer branch|rollout|PPL,5,5,0.01104952074281904,0.01104952074281904,descriptive only; five grains per class
+Rock fragment,P|Chefer branch|rollout|XPL,5,5,0.18709921304980584,0.18709921304980584,descriptive only; five grains per class
+Rock fragment,P|Chefer cross|cross-attn|PPL,5,5,0.004709088688804974,0.004709088688804974,descriptive only; five grains per class
+Rock fragment,P|Chefer cross|cross-attn|XPL,5,5,0.009559538152725856,0.009559538152725856,descriptive only; five grains per class
+Rock fragment,P|Chefer cross|rollout|PPL,5,5,-0.004761331757156606,-0.004761331757156606,descriptive only; five grains per class
+Rock fragment,P|Chefer cross|rollout|XPL,5,5,0.018124116214625775,0.018124116214625775,descriptive only; five grains per class
+Rock fragment,P|cross-attn|rollout|PPL,5,5,-0.00947042044596158,-0.00947042044596158,descriptive only; five grains per class
+Rock fragment,P|cross-attn|rollout|XPL,5,5,0.008564578061899919,0.008564578061899919,descriptive only; five grains per class
+Rock fragment,R|Grad-CAM,5,5,0.21810013705388806,0.21810013705388806,descriptive only; five grains per class
+Rock fragment,R|Chefer branch,5,5,0.27484246605110785,0.27484246605110785,descriptive only; five grains per class
+Rock fragment,R|Chefer cross,5,5,0.12167822171590344,0.12167822171590344,descriptive only; five grains per class
+Rock fragment,R|cross-attn,5,5,0.11682777225198256,0.11682777225198256,descriptive only; five grains per class
+Rock fragment,R|rollout,5,5,0.09879277374412106,0.09879277374412106,descriptive only; five grains per class
+Rock fragment,R|random,5,5,0.17098827818574763,0.17098827818574763,descriptive only; five grains per class

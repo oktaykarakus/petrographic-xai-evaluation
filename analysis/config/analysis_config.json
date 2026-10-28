@@ -1,0 +1,71 @@
+{
+  "date": "2026-10-24",
+  "design": "Retrospective saved-output reanalysis; historical point estimates known before this note; no preregistration or new confirmation",
+  "repo_default": "../data/saved_records",
+  "inputs": {
+    "code/pipeline/cache/preds_mc25_a_fold2.npz": {
+      "sha256": "7e1132bf5b4ab93ec1bca6e039874883ce08fa261f5b416f78c53415a929025a",
+      "bytes": 52654
+    },
+    "code/pipeline/cache/preds_mc25_b_fold1.npz": {
+      "sha256": "204312ad8369b1186f8cb271f69058bbbe18ed88e9ebd3532237b3b1258f4a3d",
+      "bytes": 51909
+    },
+    "code/pipeline/cache/modality_reliance_25class.csv": {
+      "sha256": "deb330364a8e8f9f77851859b71f01b55351974bc12beeb6d77c7c63aa31a25b",
+      "bytes": 2054
+    },
+    "code/pipeline/cache/irof_aoc_per_grain.csv": {
+      "sha256": "2be4c7820e2e1a2ee14d98e5cab16068d918f291167df6eb589753cf7e9dbc41",
+      "bytes": 27875
+    },
+    "code/pipeline/pipelineLithosXAI.ipynb": {
+      "sha256": "e4fe8b99d36f82dbe3d2db5e66be001d8ba3f3ecae39b5e3255a672ff0437b3e",
+      "bytes": 22197440,
+      "provenance_only": true
+    },
+    "code/external/lithos/polar_vit_arch.py": {
+      "sha256": "1c9900de1282c8daf117a6c5a74707c01f659e8d27e7ef23acf769fccbe14e55",
+      "bytes": 7666,
+      "provenance_only": true
+    },
+    "code/pipeline/runs/2026-08-20_baseline-ranking-metrics.json": {
+      "sha256": "d80a1a2518833f2a06a2af5a0cbe9d504dadf70da6613bef9868778f2b9e9163",
+      "bytes": 1996
+    },
+    "code/pipeline/runs/2026-07-20_irof-fidelity.json": {
+      "sha256": "5657e4265293ce3ab146c0a43d2f04858f7dd18f4541187004b47cbb3c677233",
+      "bytes": 5041
+    },
+    "code/pipeline/runs/2026-07-14_irof-fidelity.json": {
+      "sha256": "9b5eddca9223da0ea49e6ea947cee3669c453c78f84d6d26b59a31d71f5918cd",
+      "bytes": 5041
+    },
+    "code/pipeline/runs/2026-07-29_irof-fidelity.json": {
+      "sha256": "0e63a19f01e6f9d40d2b84c72c9ade522f7ec343c01c8b60a3f7138ef6f4fc70",
+      "bytes": 5041
+    }
+  },
+  "methods": [
+    "Grad-CAM",
+    "Chefer branch",
+    "Chefer cross",
+    "cross-attn",
+    "rollout"
+  ],
+  "branches": [
+    "PPL",
+    "XPL"
+  ],
+  "bootstrap_draws": 10000,
+  "bootstrap_seed": 20261024,
+  "plot_seed": 20261025,
+  "unit": "path-derived section key; common paired resampling across all contrasts",
+  "main_aggregation": "mean grains within section then equal observed-section means",
+  "contrast_family": "41 retrospective contrasts: 10 method-minus-averaged-random; 5 random-adjusted XPL-minus-PPL; 20 within-branch method-pair differences; 6 raw branch differences including random",
+  "pointwise_intervals": "95% percentile section bootstrap",
+  "simultaneous_intervals": "95% joint max-absolute centered bootstrap deviation standardized by observed section-mean standard errors over all41; fixed standardization, not a full studentized bootstrap",
+  "inference_limits": "Conditional approximate intervals assuming independent exchangeable recorded section groups; unknown parent grouping, selected correct-only cases, one XAI fold, fixed model, fill and averaged random baseline; no hypothesis-test P values or universal rankings",
+  "exclusions": "No recorded finite IROF AOC is truncated or discarded. No missing outcomes synthesized. No plotting creates new observations.",
+  "repository_note": "Copy of Phase 3B analysis_config.json (frozen 24 Oct 2026). Changes for the repository: repo_default is relative to analysis/; inputs marked provenance_only are not distributed and are hash-checked only when present."
+}

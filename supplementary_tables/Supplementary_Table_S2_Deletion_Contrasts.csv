@@ -1,0 +1,42 @@
+Contrast type,Procedure,Comparator,Branch,Grains,Thin sections,Section-equal mean,Grain-equal mean,Section SD,Standardised effect,Pointwise 95% CI lower,Pointwise 95% CI upper,Simultaneous 95% CI lower,Simultaneous 95% CI upper,Grains positive,Grains zero,Grains negative,Grain median,Grain minimum,Grain maximum
+Procedure minus random order,Grad-CAM,Random order,PPL,30,29,0.0049,0.0032,0.0903,0.0546,-0.0241,0.0398,-0.0468,0.0567,13,0,17,-0.0049,-0.1544,0.3412
+Procedure minus random order,Grad-CAM,Random order,XPL,30,29,0.0482,0.0471,0.1204,0.4003,0.0059,0.0920,-0.0208,0.1172,20,0,10,0.0340,-0.1580,0.3981
+Procedure minus random order,Chefer branch adaptation,Random order,PPL,30,29,0.0312,0.0291,0.1158,0.2693,-0.0059,0.0756,-0.0351,0.0975,16,0,14,0.0029,-0.1232,0.4631
+Procedure minus random order,Chefer branch adaptation,Random order,XPL,30,29,0.0573,0.0591,0.1618,0.3540,0.0016,0.1185,-0.0354,0.1500,19,0,11,0.0407,-0.2781,0.5392
+Procedure minus random order,Chefer cross adaptation,Random order,PPL,30,29,-0.0434,-0.0428,0.0942,-0.4609,-0.0784,-0.0113,-0.0974,0.0105,9,0,21,-0.0242,-0.3077,0.2000
+Procedure minus random order,Chefer cross adaptation,Random order,XPL,30,29,0.0269,0.0311,0.1721,0.1563,-0.0342,0.0895,-0.0717,0.1255,15,0,15,-0.0010,-0.3677,0.4146
+Procedure minus random order,Cross-attention,Random order,PPL,30,29,-0.0239,-0.0229,0.0986,-0.2423,-0.0583,0.0126,-0.0804,0.0326,11,0,19,-0.0136,-0.2249,0.3082
+Procedure minus random order,Cross-attention,Random order,XPL,30,29,-0.0190,-0.0165,0.1388,-0.1368,-0.0714,0.0276,-0.0985,0.0605,13,0,17,-0.0168,-0.4543,0.1965
+Procedure minus random order,Rollout,Random order,PPL,30,29,-0.0312,-0.0305,0.0814,-0.3830,-0.0606,-0.0032,-0.0778,0.0155,10,0,20,-0.0261,-0.2325,0.1402
+Procedure minus random order,Rollout,Random order,XPL,30,29,0.0153,0.0153,0.1410,0.1088,-0.0333,0.0681,-0.0654,0.0961,16,0,14,0.0062,-0.2644,0.5036
+"Branch contrast (XPL minus PPL, random-adjusted)",Grad-CAM,—,XPL minus PPL,30,29,0.0433,0.0439,0.1012,0.4276,0.0066,0.0797,-0.0147,0.1013,22,0,8,0.0419,-0.1653,0.2747
+"Branch contrast (XPL minus PPL, random-adjusted)",Chefer branch adaptation,—,XPL minus PPL,30,29,0.0261,0.0300,0.1668,0.1564,-0.0359,0.0856,-0.0694,0.1216,19,0,11,0.0456,-0.3909,0.3721
+"Branch contrast (XPL minus PPL, random-adjusted)",Chefer cross adaptation,—,XPL minus PPL,30,29,0.0703,0.0739,0.1733,0.4057,0.0092,0.1333,-0.0290,0.1696,20,0,10,0.0221,-0.3551,0.5373
+"Branch contrast (XPL minus PPL, random-adjusted)",Cross-attention,—,XPL minus PPL,30,29,0.0049,0.0064,0.1433,0.0344,-0.0468,0.0568,-0.0771,0.0870,16,0,14,0.0029,-0.3273,0.3402
+"Branch contrast (XPL minus PPL, random-adjusted)",Rollout,—,XPL minus PPL,30,29,0.0465,0.0458,0.1476,0.3153,-0.0031,0.1032,-0.0380,0.1311,15,0,15,0.0027,-0.1461,0.5553
+Pairwise procedure comparison,Grad-CAM,Chefer branch adaptation,PPL,30,29,-0.0263,-0.0259,0.1228,-0.2139,-0.0749,0.0119,-0.0966,0.0441,14,0,16,-0.0096,-0.5540,0.1340
+Pairwise procedure comparison,Grad-CAM,Chefer branch adaptation,XPL,30,29,-0.0091,-0.0120,0.1319,-0.0687,-0.0565,0.0394,-0.0846,0.0665,15,0,15,-0.0008,-0.2723,0.2801
+Pairwise procedure comparison,Grad-CAM,Chefer cross adaptation,PPL,30,29,0.0483,0.0460,0.1173,0.4119,0.0108,0.0941,-0.0189,0.1156,17,0,13,0.0074,-0.0804,0.5111
+Pairwise procedure comparison,Grad-CAM,Chefer cross adaptation,XPL,30,29,0.0213,0.0160,0.1981,0.1076,-0.0491,0.0911,-0.0922,0.1348,18,0,12,0.0147,-0.4993,0.5038
+Pairwise procedure comparison,Grad-CAM,Cross-attention,PPL,30,29,0.0288,0.0261,0.1105,0.2609,-0.0078,0.0712,-0.0345,0.0921,16,0,14,0.0019,-0.1842,0.4283
+Pairwise procedure comparison,Grad-CAM,Cross-attention,XPL,30,29,0.0672,0.0636,0.2024,0.3319,-0.0034,0.1417,-0.0488,0.1831,20,0,10,0.0501,-0.2654,0.6035
+Pairwise procedure comparison,Grad-CAM,Rollout,PPL,30,29,0.0361,0.0337,0.1468,0.2460,-0.0110,0.0917,-0.0480,0.1202,14,0,16,-0.0014,-0.2311,0.5737
+Pairwise procedure comparison,Grad-CAM,Rollout,XPL,30,29,0.0329,0.0318,0.1785,0.1841,-0.0296,0.0980,-0.0694,0.1351,16,0,14,0.0116,-0.2988,0.4864
+Pairwise procedure comparison,Chefer branch adaptation,Chefer cross adaptation,PPL,30,29,0.0746,0.0719,0.1447,0.5155,0.0282,0.1312,-0.0083,0.1575,20,0,10,0.0205,-0.0565,0.5911
+Pairwise procedure comparison,Chefer branch adaptation,Chefer cross adaptation,XPL,30,29,0.0304,0.0280,0.2006,0.1513,-0.0416,0.1045,-0.0846,0.1453,18,0,12,0.0275,-0.5303,0.6722
+Pairwise procedure comparison,Chefer branch adaptation,Cross-attention,PPL,30,29,0.0551,0.0520,0.1087,0.5066,0.0181,0.0967,-0.0072,0.1174,19,0,11,0.0161,-0.1013,0.3698
+Pairwise procedure comparison,Chefer branch adaptation,Cross-attention,XPL,30,29,0.0762,0.0756,0.2416,0.3155,-0.0049,0.1673,-0.0622,0.2147,19,0,11,0.0368,-0.2299,0.7587
+Pairwise procedure comparison,Chefer branch adaptation,Rollout,PPL,30,29,0.0624,0.0596,0.1266,0.4926,0.0213,0.1109,-0.0102,0.1349,17,0,13,0.0173,-0.0745,0.5130
+Pairwise procedure comparison,Chefer branch adaptation,Rollout,XPL,30,29,0.0419,0.0438,0.2232,0.1879,-0.0386,0.1246,-0.0859,0.1698,18,0,12,0.0592,-0.4414,0.5468
+Pairwise procedure comparison,Chefer cross adaptation,Cross-attention,PPL,30,29,-0.0195,-0.0199,0.0783,-0.2492,-0.0483,0.0083,-0.0644,0.0253,10,0,20,-0.0104,-0.2213,0.1539
+Pairwise procedure comparison,Chefer cross adaptation,Cross-attention,XPL,30,29,0.0459,0.0477,0.1590,0.2885,-0.0094,0.1039,-0.0452,0.1370,19,0,11,0.0225,-0.2787,0.4337
+Pairwise procedure comparison,Chefer cross adaptation,Rollout,PPL,30,29,-0.0122,-0.0123,0.1281,-0.0954,-0.0567,0.0349,-0.0856,0.0611,14,0,16,-0.0053,-0.2764,0.4324
+Pairwise procedure comparison,Chefer cross adaptation,Rollout,XPL,30,29,0.0116,0.0159,0.1788,0.0647,-0.0565,0.0726,-0.0908,0.1140,19,0,11,0.0235,-0.5430,0.3738
+Pairwise procedure comparison,Cross-attention,Rollout,PPL,30,29,0.0073,0.0076,0.1274,0.0572,-0.0329,0.0570,-0.0657,0.0803,17,0,13,0.0044,-0.2241,0.5407
+Pairwise procedure comparison,Cross-attention,Rollout,XPL,30,29,-0.0343,-0.0318,0.1225,-0.2802,-0.0775,0.0091,-0.1045,0.0359,11,0,19,-0.0224,-0.3071,0.1791
+Raw XPL minus PPL AOC,Grad-CAM,—,XPL minus PPL,30,29,0.0820,0.0823,0.2832,0.2897,-0.0222,0.1812,-0.0802,0.2443,22,0,8,0.0735,-0.6686,0.7142
+Raw XPL minus PPL AOC,Chefer branch adaptation,—,XPL minus PPL,30,29,0.0648,0.0684,0.3241,0.2001,-0.0555,0.1793,-0.1208,0.2505,21,0,9,0.1243,-0.7945,0.9554
+Raw XPL minus PPL AOC,Chefer cross adaptation,—,XPL minus PPL,30,29,0.1091,0.1123,0.2409,0.4527,0.0222,0.1920,-0.0289,0.2471,25,0,5,0.0934,-0.4266,0.5678
+Raw XPL minus PPL AOC,Cross-attention,—,XPL minus PPL,30,29,0.0437,0.0447,0.2356,0.1854,-0.0406,0.1268,-0.0913,0.1787,18,0,12,0.0288,-0.3868,0.4475
+Raw XPL minus PPL AOC,Rollout,—,XPL minus PPL,30,29,0.0853,0.0842,0.2339,0.3647,0.0008,0.1666,-0.0487,0.2193,22,0,8,0.0947,-0.4611,0.5524
+Raw XPL minus PPL AOC,Random order,—,XPL minus PPL,30,29,0.0388,0.0384,0.2559,0.1515,-0.0548,0.1292,-0.1078,0.1853,20,0,10,0.0780,-0.5208,0.5833

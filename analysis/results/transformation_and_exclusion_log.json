@@ -1,0 +1,10 @@
+{
+  "source_hashes_unchanged": true,
+  "baseline": "Numeric int64 arrays only; 25-label confusion arithmetic; zero-division values0 with support flags; no ranking metrics inferred",
+  "modality": "Sorted by recorded class ID; added difference of class means and n/equal-class weighted summaries; no rows synthesized",
+  "irof": "Exact source IDs, finite values and full30x2x6 grid; path-derived section groups; all rows retained; complete paired linear contrasts",
+  "uncertainty": "Common section resampling over all41 contrasts; pointwise percentiles and approximate simultaneous max-standardized intervals; no P values; no causal/confirmatory inference",
+  "influence": "Leave-one-grain, section and class; aggregation recalculated after each exclusion; these sensitivity removals do not discard full-analysis rows",
+  "figures": "Recorded numeric values only; fixed seeds for display-only y jitter; no x-value changes, image panels or model maps",
+  "unavailable": "baseline grain/section row IDs and probabilities; ablation grain drops/section keys; full IROF per-grain curves, pixel areas and null repeats; higher parent IDs"
+}

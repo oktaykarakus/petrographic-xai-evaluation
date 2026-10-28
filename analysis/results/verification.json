@@ -1,0 +1,12 @@
+{
+  "baseline_independent_sklearn_checks": "all3 cohorts accuracy/macro metrics/weightedF1/kappa/MCC and complete matrices agree to1e-12",
+  "all41_contrast_means_independent_stdlib_max_abs_error": 2.0816681711721685e-17,
+  "simultaneous_intervals_excluding_zero": 0,
+  "original_inputs_unchanged": true,
+  "verification_environment": {
+    "python": "3.12.3 | packaged by conda-forge | (main, Apr 15 2024, 18:35:20) [Clang 16.0.6 ]",
+    "numpy": "1.26.4",
+    "scikit-learn": "1.5.1",
+    "note": "sklearn used only as independent metric verifier, not by analysis/plot builder"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "status": "RECORDED ONLY; no probability arrays reanalysed or values reconstructed from hard labels",
+  "source": "../data/saved_records/code/pipeline/runs/2026-08-20_baseline-ranking-metrics.json",
+  "reported": {
+    "per_fold": {
+      "fold1": {
+        "n": 52792,
+        "accuracy": 0.6360812244279437,
+        "macro_recall": 0.41991503606100394,
+        "macro_precision": 0.5199279136627366,
+        "macro_f1": 0.4338776798919419,
+        "auc_ovr_macro": 0.9467152601673632,
+        "aupr_macro": 0.4769062107456493
+      },
+      "fold2": {
+        "n": 53010,
+        "accuracy": 0.609903791737408,
+        "macro_recall": 0.4110133008486701,
+        "macro_precision": 0.5186706504581098,
+        "macro_f1": 0.4304963416619056,
+        "auc_ovr_macro": 0.9494086945839731,
+        "aupr_macro": 0.46566710608814665
+      }
+    },
+    "fold_mean": {
+      "accuracy": {
+        "mean": 0.6229925080826759,
+        "std_sample": 0.018510240169532153
+      },
+      "macro_recall": {
+        "mean": 0.415464168454837,
+        "std_sample": 0.006294477332968329
+      },
+      "macro_precision": {
+        "mean": 0.5192992820604232,
+        "std_sample": 0.0008890193377279572
+      },
+      "macro_f1": {
+        "mean": 0.4321870107769238,
+        "std_sample": 0.0023909671919440105
+      },
+      "auc_ovr_macro": {
+        "mean": 0.9480619773756682,
+        "std_sample": 0.0019045457406661375
+      },
+      "aupr_macro": {
+        "mean": 0.471286658416898,
+        "std_sample": 0.007947247117785442
+      }
+    },
+    "pooled": {
+      "accuracy": 0.622965539403792,
+      "macro_recall": 0.404102795617128,
+      "macro_precision": 0.5114482122804899,
+      "macro_f1": 0.4285765197940208,
+      "auc_ovr_macro": 0.9475812273302631,
+      "aupr_macro": 0.4568717023106252
+    }
+  },
+  "recommendation": "Exclude probability-based ranking metrics from main claims unless their aligned probability inputs become available."
+}

@@ -1,0 +1,626 @@
+scope,true_class_id,true_class_name,predicted_class_id,predicted_class_name,count,fraction_of_true_class
+pooled,0,Monocrystalline,0,Monocrystalline,22417,0.7502593794973058
+pooled,0,Monocrystalline,1,Rock fragment,2494,0.08346999564911811
+pooled,0,Monocrystalline,2,Polycrystalline,3035,0.10157635797717461
+pooled,0,Monocrystalline,3,Feldspar,693,0.023193547307473476
+pooled,0,Monocrystalline,4,Quartz,1017,0.03403728371096757
+pooled,0,Monocrystalline,5,Plagioclase,12,0.0004016198667960775
+pooled,0,Monocrystalline,6,Foraminifer,0,0.0
+pooled,0,Monocrystalline,7,Fossil fragment,69,0.0023093142340774456
+pooled,0,Monocrystalline,8,Opaque,2,6.693664446601292e-05
+pooled,0,Monocrystalline,9,Amphibole,30,0.0010040496669901937
+pooled,0,Monocrystalline,10,Calcareous fossil,9,0.00030121490009705815
+pooled,0,Monocrystalline,11,Red algae,1,3.346832223300646e-05
+pooled,0,Monocrystalline,12,Mica,61,0.002041567656213394
+pooled,0,Monocrystalline,13,Calcite,0,0.0
+pooled,0,Monocrystalline,14,Muscovite,1,3.346832223300646e-05
+pooled,0,Monocrystalline,15,Heavy mineral,30,0.0010040496669901937
+pooled,0,Monocrystalline,16,Coral,1,3.346832223300646e-05
+pooled,0,Monocrystalline,17,Hornblende,2,6.693664446601292e-05
+pooled,0,Monocrystalline,18,Microcline,0,0.0
+pooled,0,Monocrystalline,19,Pyroxene,2,6.693664446601292e-05
+pooled,0,Monocrystalline,20,Dolomite,2,6.693664446601292e-05
+pooled,0,Monocrystalline,21,Echinoderm,0,0.0
+pooled,0,Monocrystalline,22,Sanidine,0,0.0
+pooled,0,Monocrystalline,23,Crystalline mosaic,0,0.0
+pooled,0,Monocrystalline,24,Other (merged),1,3.346832223300646e-05
+pooled,1,Rock fragment,0,Monocrystalline,2763,0.11945008862565389
+pooled,1,Rock fragment,1,Rock fragment,17529,0.7578141887510268
+pooled,1,Rock fragment,2,Polycrystalline,1442,0.062340581903073795
+pooled,1,Rock fragment,3,Feldspar,992,0.042886170074791403
+pooled,1,Rock fragment,4,Quartz,94,0.004063810470796766
+pooled,1,Rock fragment,5,Plagioclase,24,0.0010375686308417276
+pooled,1,Rock fragment,6,Foraminifer,4,0.00017292810514028792
+pooled,1,Rock fragment,7,Fossil fragment,94,0.004063810470796766
+pooled,1,Rock fragment,8,Opaque,4,0.00017292810514028792
+pooled,1,Rock fragment,9,Amphibole,14,0.0006052483679910077
+pooled,1,Rock fragment,10,Calcareous fossil,27,0.0011672647096969435
+pooled,1,Rock fragment,11,Red algae,5,0.0002161601314253599
+pooled,1,Rock fragment,12,Mica,67,0.002896545761099823
+pooled,1,Rock fragment,13,Calcite,1,4.323202628507198e-05
+pooled,1,Rock fragment,14,Muscovite,3,0.00012969607885521595
+pooled,1,Rock fragment,15,Heavy mineral,32,0.0013834248411223034
+pooled,1,Rock fragment,16,Coral,17,0.0007349444468462237
+pooled,1,Rock fragment,17,Hornblende,2,8.646405257014396e-05
+pooled,1,Rock fragment,18,Microcline,0,0.0
+pooled,1,Rock fragment,19,Pyroxene,0,0.0
+pooled,1,Rock fragment,20,Dolomite,0,0.0
+pooled,1,Rock fragment,21,Echinoderm,5,0.0002161601314253599
+pooled,1,Rock fragment,22,Sanidine,0,0.0
+pooled,1,Rock fragment,23,Crystalline mosaic,0,0.0
+pooled,1,Rock fragment,24,Other (merged),12,0.0005187843154208638
+pooled,2,Polycrystalline,0,Monocrystalline,4401,0.24861597559597787
+pooled,2,Polycrystalline,1,Rock fragment,2011,0.11360298271381765
+pooled,2,Polycrystalline,2,Polycrystalline,10338,0.584001807705344
+pooled,2,Polycrystalline,3,Feldspar,507,0.028640831544458255
+pooled,2,Polycrystalline,4,Quartz,395,0.02231386284035702
+pooled,2,Polycrystalline,5,Plagioclase,9,0.0005084171280081346
+pooled,2,Polycrystalline,6,Foraminifer,0,0.0
+pooled,2,Polycrystalline,7,Fossil fragment,7,0.000395435544006327
+pooled,2,Polycrystalline,8,Opaque,0,0.0
+pooled,2,Polycrystalline,9,Amphibole,2,0.00011298158400180771
+pooled,2,Polycrystalline,10,Calcareous fossil,5,0.00028245396000451924
+pooled,2,Polycrystalline,11,Red algae,0,0.0
+pooled,2,Polycrystalline,12,Mica,21,0.0011863066320189808
+pooled,2,Polycrystalline,13,Calcite,1,5.6490792000903855e-05
+pooled,2,Polycrystalline,14,Muscovite,0,0.0
+pooled,2,Polycrystalline,15,Heavy mineral,4,0.00022596316800361542
+pooled,2,Polycrystalline,16,Coral,0,0.0
+pooled,2,Polycrystalline,17,Hornblende,0,0.0
+pooled,2,Polycrystalline,18,Microcline,0,0.0
+pooled,2,Polycrystalline,19,Pyroxene,0,0.0
+pooled,2,Polycrystalline,20,Dolomite,1,5.6490792000903855e-05
+pooled,2,Polycrystalline,21,Echinoderm,0,0.0
+pooled,2,Polycrystalline,22,Sanidine,0,0.0
+pooled,2,Polycrystalline,23,Crystalline mosaic,0,0.0
+pooled,2,Polycrystalline,24,Other (merged),0,0.0
+pooled,3,Feldspar,0,Monocrystalline,1890,0.1853304569523436
+pooled,3,Feldspar,1,Rock fragment,2146,0.21043341831731713
+pooled,3,Feldspar,2,Polycrystalline,760,0.07452441655226515
+pooled,3,Feldspar,3,Feldspar,4260,0.41772896646401253
+pooled,3,Feldspar,4,Quartz,432,0.04236124730339282
+pooled,3,Feldspar,5,Plagioclase,589,0.05775642282800549
+pooled,3,Feldspar,6,Foraminifer,0,0.0
+pooled,3,Feldspar,7,Fossil fragment,4,0.0003922337713277113
+pooled,3,Feldspar,8,Opaque,2,0.00019611688566385565
+pooled,3,Feldspar,9,Amphibole,31,0.003039811727789763
+pooled,3,Feldspar,10,Calcareous fossil,2,0.00019611688566385565
+pooled,3,Feldspar,11,Red algae,0,0.0
+pooled,3,Feldspar,12,Mica,28,0.002745636399293979
+pooled,3,Feldspar,13,Calcite,2,0.00019611688566385565
+pooled,3,Feldspar,14,Muscovite,1,9.805844283192783e-05
+pooled,3,Feldspar,15,Heavy mineral,3,0.0002941753284957835
+pooled,3,Feldspar,16,Coral,0,0.0
+pooled,3,Feldspar,17,Hornblende,1,9.805844283192783e-05
+pooled,3,Feldspar,18,Microcline,12,0.001176701313983134
+pooled,3,Feldspar,19,Pyroxene,16,0.0015689350853108452
+pooled,3,Feldspar,20,Dolomite,0,0.0
+pooled,3,Feldspar,21,Echinoderm,1,9.805844283192783e-05
+pooled,3,Feldspar,22,Sanidine,17,0.001666993528142773
+pooled,3,Feldspar,23,Crystalline mosaic,0,0.0
+pooled,3,Feldspar,24,Other (merged),1,9.805844283192783e-05
+pooled,4,Quartz,0,Monocrystalline,1436,0.19709031018391435
+pooled,4,Quartz,1,Rock fragment,292,0.04007685973099094
+pooled,4,Quartz,2,Polycrystalline,967,0.13272028547900083
+pooled,4,Quartz,3,Feldspar,601,0.08248696129563547
+pooled,4,Quartz,4,Quartz,3783,0.5192149327477353
+pooled,4,Quartz,5,Plagioclase,119,0.016332692835575074
+pooled,4,Quartz,6,Foraminifer,1,0.0001372495196266813
+pooled,4,Quartz,7,Fossil fragment,6,0.0008234971177600879
+pooled,4,Quartz,8,Opaque,3,0.00041174855888004394
+pooled,4,Quartz,9,Amphibole,29,0.003980236069173758
+pooled,4,Quartz,10,Calcareous fossil,0,0.0
+pooled,4,Quartz,11,Red algae,0,0.0
+pooled,4,Quartz,12,Mica,21,0.0028822399121603073
+pooled,4,Quartz,13,Calcite,4,0.0005489980785067252
+pooled,4,Quartz,14,Muscovite,12,0.0016469942355201758
+pooled,4,Quartz,15,Heavy mineral,0,0.0
+pooled,4,Quartz,16,Coral,0,0.0
+pooled,4,Quartz,17,Hornblende,0,0.0
+pooled,4,Quartz,18,Microcline,1,0.0001372495196266813
+pooled,4,Quartz,19,Pyroxene,5,0.0006862475981334065
+pooled,4,Quartz,20,Dolomite,1,0.0001372495196266813
+pooled,4,Quartz,21,Echinoderm,0,0.0
+pooled,4,Quartz,22,Sanidine,0,0.0
+pooled,4,Quartz,23,Crystalline mosaic,4,0.0005489980785067252
+pooled,4,Quartz,24,Other (merged),1,0.0001372495196266813
+pooled,5,Plagioclase,0,Monocrystalline,57,0.016341743119266054
+pooled,5,Plagioclase,1,Rock fragment,223,0.06393348623853211
+pooled,5,Plagioclase,2,Polycrystalline,8,0.0022935779816513763
+pooled,5,Plagioclase,3,Feldspar,1437,0.41198394495412843
+pooled,5,Plagioclase,4,Quartz,110,0.03153669724770642
+pooled,5,Plagioclase,5,Plagioclase,1526,0.4375
+pooled,5,Plagioclase,6,Foraminifer,1,0.00028669724770642203
+pooled,5,Plagioclase,7,Fossil fragment,5,0.0014334862385321102
+pooled,5,Plagioclase,8,Opaque,5,0.0014334862385321102
+pooled,5,Plagioclase,9,Amphibole,34,0.00974770642201835
+pooled,5,Plagioclase,10,Calcareous fossil,0,0.0
+pooled,5,Plagioclase,11,Red algae,0,0.0
+pooled,5,Plagioclase,12,Mica,14,0.0040137614678899085
+pooled,5,Plagioclase,13,Calcite,0,0.0
+pooled,5,Plagioclase,14,Muscovite,2,0.0005733944954128441
+pooled,5,Plagioclase,15,Heavy mineral,2,0.0005733944954128441
+pooled,5,Plagioclase,16,Coral,0,0.0
+pooled,5,Plagioclase,17,Hornblende,4,0.0011467889908256881
+pooled,5,Plagioclase,18,Microcline,8,0.0022935779816513763
+pooled,5,Plagioclase,19,Pyroxene,45,0.012901376146788992
+pooled,5,Plagioclase,20,Dolomite,0,0.0
+pooled,5,Plagioclase,21,Echinoderm,0,0.0
+pooled,5,Plagioclase,22,Sanidine,3,0.0008600917431192661
+pooled,5,Plagioclase,23,Crystalline mosaic,0,0.0
+pooled,5,Plagioclase,24,Other (merged),4,0.0011467889908256881
+pooled,6,Foraminifer,0,Monocrystalline,3,0.001145912910618793
+pooled,6,Foraminifer,1,Rock fragment,14,0.0053475935828877
+pooled,6,Foraminifer,2,Polycrystalline,0,0.0
+pooled,6,Foraminifer,3,Feldspar,0,0.0
+pooled,6,Foraminifer,4,Quartz,0,0.0
+pooled,6,Foraminifer,5,Plagioclase,0,0.0
+pooled,6,Foraminifer,6,Foraminifer,2176,0.8311688311688312
+pooled,6,Foraminifer,7,Fossil fragment,246,0.09396485867074103
+pooled,6,Foraminifer,8,Opaque,0,0.0
+pooled,6,Foraminifer,9,Amphibole,0,0.0
+pooled,6,Foraminifer,10,Calcareous fossil,27,0.010313216195569137
+pooled,6,Foraminifer,11,Red algae,105,0.040106951871657755
+pooled,6,Foraminifer,12,Mica,0,0.0
+pooled,6,Foraminifer,13,Calcite,2,0.0007639419404125286
+pooled,6,Foraminifer,14,Muscovite,0,0.0
+pooled,6,Foraminifer,15,Heavy mineral,0,0.0
+pooled,6,Foraminifer,16,Coral,32,0.012223071046600458
+pooled,6,Foraminifer,17,Hornblende,0,0.0
+pooled,6,Foraminifer,18,Microcline,0,0.0
+pooled,6,Foraminifer,19,Pyroxene,0,0.0
+pooled,6,Foraminifer,20,Dolomite,0,0.0
+pooled,6,Foraminifer,21,Echinoderm,11,0.004201680672268907
+pooled,6,Foraminifer,22,Sanidine,0,0.0
+pooled,6,Foraminifer,23,Crystalline mosaic,2,0.0007639419404125286
+pooled,6,Foraminifer,24,Other (merged),0,0.0
+pooled,7,Fossil fragment,0,Monocrystalline,33,0.021032504780114723
+pooled,7,Fossil fragment,1,Rock fragment,248,0.15806246016571066
+pooled,7,Fossil fragment,2,Polycrystalline,7,0.004461440407903123
+pooled,7,Fossil fragment,3,Feldspar,5,0.0031867431485022306
+pooled,7,Fossil fragment,4,Quartz,8,0.005098789037603569
+pooled,7,Fossil fragment,5,Plagioclase,7,0.004461440407903123
+pooled,7,Fossil fragment,6,Foraminifer,297,0.18929254302103252
+pooled,7,Fossil fragment,7,Fossil fragment,481,0.3065646908859146
+pooled,7,Fossil fragment,8,Opaque,0,0.0
+pooled,7,Fossil fragment,9,Amphibole,17,0.010834926704907584
+pooled,7,Fossil fragment,10,Calcareous fossil,116,0.07393244104525175
+pooled,7,Fossil fragment,11,Red algae,113,0.07202039515615041
+pooled,7,Fossil fragment,12,Mica,1,0.0006373486297004461
+pooled,7,Fossil fragment,13,Calcite,25,0.015933715742511154
+pooled,7,Fossil fragment,14,Muscovite,0,0.0
+pooled,7,Fossil fragment,15,Heavy mineral,2,0.0012746972594008922
+pooled,7,Fossil fragment,16,Coral,169,0.1077119184193754
+pooled,7,Fossil fragment,17,Hornblende,0,0.0
+pooled,7,Fossil fragment,18,Microcline,0,0.0
+pooled,7,Fossil fragment,19,Pyroxene,1,0.0006373486297004461
+pooled,7,Fossil fragment,20,Dolomite,4,0.0025493945188017845
+pooled,7,Fossil fragment,21,Echinoderm,29,0.018483110261312937
+pooled,7,Fossil fragment,22,Sanidine,0,0.0
+pooled,7,Fossil fragment,23,Crystalline mosaic,3,0.0019120458891013384
+pooled,7,Fossil fragment,24,Other (merged),3,0.0019120458891013384
+pooled,8,Opaque,0,Monocrystalline,10,0.046296296296296294
+pooled,8,Opaque,1,Rock fragment,73,0.33796296296296297
+pooled,8,Opaque,2,Polycrystalline,5,0.023148148148148147
+pooled,8,Opaque,3,Feldspar,17,0.0787037037037037
+pooled,8,Opaque,4,Quartz,32,0.14814814814814814
+pooled,8,Opaque,5,Plagioclase,8,0.037037037037037035
+pooled,8,Opaque,6,Foraminifer,0,0.0
+pooled,8,Opaque,7,Fossil fragment,1,0.004629629629629629
+pooled,8,Opaque,8,Opaque,23,0.10648148148148148
+pooled,8,Opaque,9,Amphibole,19,0.08796296296296297
+pooled,8,Opaque,10,Calcareous fossil,0,0.0
+pooled,8,Opaque,11,Red algae,0,0.0
+pooled,8,Opaque,12,Mica,3,0.013888888888888888
+pooled,8,Opaque,13,Calcite,0,0.0
+pooled,8,Opaque,14,Muscovite,2,0.009259259259259259
+pooled,8,Opaque,15,Heavy mineral,10,0.046296296296296294
+pooled,8,Opaque,16,Coral,0,0.0
+pooled,8,Opaque,17,Hornblende,3,0.013888888888888888
+pooled,8,Opaque,18,Microcline,1,0.004629629629629629
+pooled,8,Opaque,19,Pyroxene,2,0.009259259259259259
+pooled,8,Opaque,20,Dolomite,4,0.018518518518518517
+pooled,8,Opaque,21,Echinoderm,0,0.0
+pooled,8,Opaque,22,Sanidine,0,0.0
+pooled,8,Opaque,23,Crystalline mosaic,0,0.0
+pooled,8,Opaque,24,Other (merged),3,0.013888888888888888
+pooled,9,Amphibole,0,Monocrystalline,7,0.00603448275862069
+pooled,9,Amphibole,1,Rock fragment,142,0.12241379310344827
+pooled,9,Amphibole,2,Polycrystalline,2,0.0017241379310344827
+pooled,9,Amphibole,3,Feldspar,35,0.03017241379310345
+pooled,9,Amphibole,4,Quartz,24,0.020689655172413793
+pooled,9,Amphibole,5,Plagioclase,26,0.022413793103448276
+pooled,9,Amphibole,6,Foraminifer,0,0.0
+pooled,9,Amphibole,7,Fossil fragment,3,0.002586206896551724
+pooled,9,Amphibole,8,Opaque,4,0.0034482758620689655
+pooled,9,Amphibole,9,Amphibole,680,0.5862068965517241
+pooled,9,Amphibole,10,Calcareous fossil,2,0.0017241379310344827
+pooled,9,Amphibole,11,Red algae,0,0.0
+pooled,9,Amphibole,12,Mica,7,0.00603448275862069
+pooled,9,Amphibole,13,Calcite,1,0.0008620689655172414
+pooled,9,Amphibole,14,Muscovite,2,0.0017241379310344827
+pooled,9,Amphibole,15,Heavy mineral,3,0.002586206896551724
+pooled,9,Amphibole,16,Coral,0,0.0
+pooled,9,Amphibole,17,Hornblende,30,0.02586206896551724
+pooled,9,Amphibole,18,Microcline,0,0.0
+pooled,9,Amphibole,19,Pyroxene,113,0.09741379310344828
+pooled,9,Amphibole,20,Dolomite,0,0.0
+pooled,9,Amphibole,21,Echinoderm,0,0.0
+pooled,9,Amphibole,22,Sanidine,0,0.0
+pooled,9,Amphibole,23,Crystalline mosaic,0,0.0
+pooled,9,Amphibole,24,Other (merged),79,0.06810344827586207
+pooled,10,Calcareous fossil,0,Monocrystalline,18,0.01768172888015717
+pooled,10,Calcareous fossil,1,Rock fragment,113,0.11100196463654224
+pooled,10,Calcareous fossil,2,Polycrystalline,2,0.0019646365422396855
+pooled,10,Calcareous fossil,3,Feldspar,4,0.003929273084479371
+pooled,10,Calcareous fossil,4,Quartz,0,0.0
+pooled,10,Calcareous fossil,5,Plagioclase,1,0.0009823182711198428
+pooled,10,Calcareous fossil,6,Foraminifer,157,0.15422396856581533
+pooled,10,Calcareous fossil,7,Fossil fragment,123,0.12082514734774066
+pooled,10,Calcareous fossil,8,Opaque,0,0.0
+pooled,10,Calcareous fossil,9,Amphibole,5,0.004911591355599214
+pooled,10,Calcareous fossil,10,Calcareous fossil,458,0.449901768172888
+pooled,10,Calcareous fossil,11,Red algae,27,0.026522593320235755
+pooled,10,Calcareous fossil,12,Mica,0,0.0
+pooled,10,Calcareous fossil,13,Calcite,5,0.004911591355599214
+pooled,10,Calcareous fossil,14,Muscovite,0,0.0
+pooled,10,Calcareous fossil,15,Heavy mineral,5,0.004911591355599214
+pooled,10,Calcareous fossil,16,Coral,89,0.08742632612966601
+pooled,10,Calcareous fossil,17,Hornblende,0,0.0
+pooled,10,Calcareous fossil,18,Microcline,0,0.0
+pooled,10,Calcareous fossil,19,Pyroxene,0,0.0
+pooled,10,Calcareous fossil,20,Dolomite,0,0.0
+pooled,10,Calcareous fossil,21,Echinoderm,7,0.0068762278978389
+pooled,10,Calcareous fossil,22,Sanidine,0,0.0
+pooled,10,Calcareous fossil,23,Crystalline mosaic,2,0.0019646365422396855
+pooled,10,Calcareous fossil,24,Other (merged),2,0.0019646365422396855
+pooled,11,Red algae,0,Monocrystalline,4,0.003996003996003996
+pooled,11,Red algae,1,Rock fragment,16,0.015984015984015984
+pooled,11,Red algae,2,Polycrystalline,0,0.0
+pooled,11,Red algae,3,Feldspar,1,0.000999000999000999
+pooled,11,Red algae,4,Quartz,0,0.0
+pooled,11,Red algae,5,Plagioclase,0,0.0
+pooled,11,Red algae,6,Foraminifer,68,0.06793206793206794
+pooled,11,Red algae,7,Fossil fragment,63,0.06293706293706294
+pooled,11,Red algae,8,Opaque,0,0.0
+pooled,11,Red algae,9,Amphibole,2,0.001998001998001998
+pooled,11,Red algae,10,Calcareous fossil,14,0.013986013986013986
+pooled,11,Red algae,11,Red algae,809,0.8081918081918081
+pooled,11,Red algae,12,Mica,0,0.0
+pooled,11,Red algae,13,Calcite,0,0.0
+pooled,11,Red algae,14,Muscovite,0,0.0
+pooled,11,Red algae,15,Heavy mineral,6,0.005994005994005994
+pooled,11,Red algae,16,Coral,11,0.01098901098901099
+pooled,11,Red algae,17,Hornblende,0,0.0
+pooled,11,Red algae,18,Microcline,0,0.0
+pooled,11,Red algae,19,Pyroxene,0,0.0
+pooled,11,Red algae,20,Dolomite,0,0.0
+pooled,11,Red algae,21,Echinoderm,7,0.006993006993006993
+pooled,11,Red algae,22,Sanidine,0,0.0
+pooled,11,Red algae,23,Crystalline mosaic,0,0.0
+pooled,11,Red algae,24,Other (merged),0,0.0
+pooled,12,Mica,0,Monocrystalline,172,0.21689785624211855
+pooled,12,Mica,1,Rock fragment,335,0.4224464060529634
+pooled,12,Mica,2,Polycrystalline,28,0.03530895334174023
+pooled,12,Mica,3,Feldspar,48,0.0605296343001261
+pooled,12,Mica,4,Quartz,43,0.05422446406052964
+pooled,12,Mica,5,Plagioclase,8,0.01008827238335435
+pooled,12,Mica,6,Foraminifer,0,0.0
+pooled,12,Mica,7,Fossil fragment,2,0.0025220680958385876
+pooled,12,Mica,8,Opaque,0,0.0
+pooled,12,Mica,9,Amphibole,2,0.0025220680958385876
+pooled,12,Mica,10,Calcareous fossil,1,0.0012610340479192938
+pooled,12,Mica,11,Red algae,0,0.0
+pooled,12,Mica,12,Mica,132,0.1664564943253468
+pooled,12,Mica,13,Calcite,0,0.0
+pooled,12,Mica,14,Muscovite,4,0.005044136191677175
+pooled,12,Mica,15,Heavy mineral,2,0.0025220680958385876
+pooled,12,Mica,16,Coral,0,0.0
+pooled,12,Mica,17,Hornblende,5,0.006305170239596469
+pooled,12,Mica,18,Microcline,0,0.0
+pooled,12,Mica,19,Pyroxene,2,0.0025220680958385876
+pooled,12,Mica,20,Dolomite,0,0.0
+pooled,12,Mica,21,Echinoderm,0,0.0
+pooled,12,Mica,22,Sanidine,0,0.0
+pooled,12,Mica,23,Crystalline mosaic,0,0.0
+pooled,12,Mica,24,Other (merged),9,0.011349306431273645
+pooled,13,Calcite,0,Monocrystalline,91,0.136431784107946
+pooled,13,Calcite,1,Rock fragment,46,0.06896551724137931
+pooled,13,Calcite,2,Polycrystalline,3,0.004497751124437781
+pooled,13,Calcite,3,Feldspar,30,0.044977511244377814
+pooled,13,Calcite,4,Quartz,20,0.029985007496251874
+pooled,13,Calcite,5,Plagioclase,29,0.043478260869565216
+pooled,13,Calcite,6,Foraminifer,5,0.0074962518740629685
+pooled,13,Calcite,7,Fossil fragment,131,0.19640179910044978
+pooled,13,Calcite,8,Opaque,0,0.0
+pooled,13,Calcite,9,Amphibole,11,0.01649175412293853
+pooled,13,Calcite,10,Calcareous fossil,10,0.014992503748125937
+pooled,13,Calcite,11,Red algae,4,0.005997001499250375
+pooled,13,Calcite,12,Mica,0,0.0
+pooled,13,Calcite,13,Calcite,115,0.1724137931034483
+pooled,13,Calcite,14,Muscovite,0,0.0
+pooled,13,Calcite,15,Heavy mineral,0,0.0
+pooled,13,Calcite,16,Coral,5,0.0074962518740629685
+pooled,13,Calcite,17,Hornblende,0,0.0
+pooled,13,Calcite,18,Microcline,0,0.0
+pooled,13,Calcite,19,Pyroxene,4,0.005997001499250375
+pooled,13,Calcite,20,Dolomite,34,0.050974512743628186
+pooled,13,Calcite,21,Echinoderm,109,0.1634182908545727
+pooled,13,Calcite,22,Sanidine,1,0.0014992503748125937
+pooled,13,Calcite,23,Crystalline mosaic,8,0.01199400299850075
+pooled,13,Calcite,24,Other (merged),11,0.01649175412293853
+pooled,14,Muscovite,0,Monocrystalline,4,0.013201320132013201
+pooled,14,Muscovite,1,Rock fragment,87,0.2871287128712871
+pooled,14,Muscovite,2,Polycrystalline,3,0.009900990099009901
+pooled,14,Muscovite,3,Feldspar,14,0.0462046204620462
+pooled,14,Muscovite,4,Quartz,74,0.24422442244224424
+pooled,14,Muscovite,5,Plagioclase,2,0.006600660066006601
+pooled,14,Muscovite,6,Foraminifer,0,0.0
+pooled,14,Muscovite,7,Fossil fragment,1,0.0033003300330033004
+pooled,14,Muscovite,8,Opaque,0,0.0
+pooled,14,Muscovite,9,Amphibole,17,0.056105610561056105
+pooled,14,Muscovite,10,Calcareous fossil,0,0.0
+pooled,14,Muscovite,11,Red algae,0,0.0
+pooled,14,Muscovite,12,Mica,23,0.07590759075907591
+pooled,14,Muscovite,13,Calcite,3,0.009900990099009901
+pooled,14,Muscovite,14,Muscovite,40,0.132013201320132
+pooled,14,Muscovite,15,Heavy mineral,0,0.0
+pooled,14,Muscovite,16,Coral,0,0.0
+pooled,14,Muscovite,17,Hornblende,2,0.006600660066006601
+pooled,14,Muscovite,18,Microcline,0,0.0
+pooled,14,Muscovite,19,Pyroxene,7,0.0231023102310231
+pooled,14,Muscovite,20,Dolomite,0,0.0
+pooled,14,Muscovite,21,Echinoderm,0,0.0
+pooled,14,Muscovite,22,Sanidine,0,0.0
+pooled,14,Muscovite,23,Crystalline mosaic,0,0.0
+pooled,14,Muscovite,24,Other (merged),26,0.0858085808580858
+pooled,15,Heavy mineral,0,Monocrystalline,231,0.4103019538188277
+pooled,15,Heavy mineral,1,Rock fragment,249,0.4422735346358792
+pooled,15,Heavy mineral,2,Polycrystalline,20,0.035523978685612786
+pooled,15,Heavy mineral,3,Feldspar,7,0.012433392539964476
+pooled,15,Heavy mineral,4,Quartz,4,0.007104795737122558
+pooled,15,Heavy mineral,5,Plagioclase,0,0.0
+pooled,15,Heavy mineral,6,Foraminifer,0,0.0
+pooled,15,Heavy mineral,7,Fossil fragment,9,0.015985790408525755
+pooled,15,Heavy mineral,8,Opaque,1,0.0017761989342806395
+pooled,15,Heavy mineral,9,Amphibole,2,0.003552397868561279
+pooled,15,Heavy mineral,10,Calcareous fossil,3,0.0053285968028419185
+pooled,15,Heavy mineral,11,Red algae,3,0.0053285968028419185
+pooled,15,Heavy mineral,12,Mica,2,0.003552397868561279
+pooled,15,Heavy mineral,13,Calcite,1,0.0017761989342806395
+pooled,15,Heavy mineral,14,Muscovite,0,0.0
+pooled,15,Heavy mineral,15,Heavy mineral,29,0.05150976909413854
+pooled,15,Heavy mineral,16,Coral,2,0.003552397868561279
+pooled,15,Heavy mineral,17,Hornblende,0,0.0
+pooled,15,Heavy mineral,18,Microcline,0,0.0
+pooled,15,Heavy mineral,19,Pyroxene,0,0.0
+pooled,15,Heavy mineral,20,Dolomite,0,0.0
+pooled,15,Heavy mineral,21,Echinoderm,0,0.0
+pooled,15,Heavy mineral,22,Sanidine,0,0.0
+pooled,15,Heavy mineral,23,Crystalline mosaic,0,0.0
+pooled,15,Heavy mineral,24,Other (merged),0,0.0
+pooled,16,Coral,0,Monocrystalline,12,0.022099447513812154
+pooled,16,Coral,1,Rock fragment,91,0.16758747697974216
+pooled,16,Coral,2,Polycrystalline,0,0.0
+pooled,16,Coral,3,Feldspar,2,0.003683241252302026
+pooled,16,Coral,4,Quartz,0,0.0
+pooled,16,Coral,5,Plagioclase,0,0.0
+pooled,16,Coral,6,Foraminifer,21,0.03867403314917127
+pooled,16,Coral,7,Fossil fragment,166,0.30570902394106814
+pooled,16,Coral,8,Opaque,0,0.0
+pooled,16,Coral,9,Amphibole,2,0.003683241252302026
+pooled,16,Coral,10,Calcareous fossil,13,0.02394106813996317
+pooled,16,Coral,11,Red algae,16,0.029465930018416207
+pooled,16,Coral,12,Mica,0,0.0
+pooled,16,Coral,13,Calcite,1,0.001841620626151013
+pooled,16,Coral,14,Muscovite,0,0.0
+pooled,16,Coral,15,Heavy mineral,0,0.0
+pooled,16,Coral,16,Coral,209,0.3848987108655617
+pooled,16,Coral,17,Hornblende,0,0.0
+pooled,16,Coral,18,Microcline,0,0.0
+pooled,16,Coral,19,Pyroxene,1,0.001841620626151013
+pooled,16,Coral,20,Dolomite,0,0.0
+pooled,16,Coral,21,Echinoderm,8,0.014732965009208104
+pooled,16,Coral,22,Sanidine,0,0.0
+pooled,16,Coral,23,Crystalline mosaic,0,0.0
+pooled,16,Coral,24,Other (merged),1,0.001841620626151013
+pooled,17,Hornblende,0,Monocrystalline,0,0.0
+pooled,17,Hornblende,1,Rock fragment,69,0.22186495176848875
+pooled,17,Hornblende,2,Polycrystalline,0,0.0
+pooled,17,Hornblende,3,Feldspar,7,0.022508038585209004
+pooled,17,Hornblende,4,Quartz,1,0.003215434083601286
+pooled,17,Hornblende,5,Plagioclase,6,0.01929260450160772
+pooled,17,Hornblende,6,Foraminifer,0,0.0
+pooled,17,Hornblende,7,Fossil fragment,0,0.0
+pooled,17,Hornblende,8,Opaque,5,0.01607717041800643
+pooled,17,Hornblende,9,Amphibole,91,0.29260450160771706
+pooled,17,Hornblende,10,Calcareous fossil,2,0.006430868167202572
+pooled,17,Hornblende,11,Red algae,0,0.0
+pooled,17,Hornblende,12,Mica,8,0.02572347266881029
+pooled,17,Hornblende,13,Calcite,0,0.0
+pooled,17,Hornblende,14,Muscovite,2,0.006430868167202572
+pooled,17,Hornblende,15,Heavy mineral,0,0.0
+pooled,17,Hornblende,16,Coral,0,0.0
+pooled,17,Hornblende,17,Hornblende,115,0.36977491961414793
+pooled,17,Hornblende,18,Microcline,0,0.0
+pooled,17,Hornblende,19,Pyroxene,0,0.0
+pooled,17,Hornblende,20,Dolomite,0,0.0
+pooled,17,Hornblende,21,Echinoderm,0,0.0
+pooled,17,Hornblende,22,Sanidine,0,0.0
+pooled,17,Hornblende,23,Crystalline mosaic,0,0.0
+pooled,17,Hornblende,24,Other (merged),5,0.01607717041800643
+pooled,18,Microcline,0,Monocrystalline,8,0.0365296803652968
+pooled,18,Microcline,1,Rock fragment,3,0.0136986301369863
+pooled,18,Microcline,2,Polycrystalline,3,0.0136986301369863
+pooled,18,Microcline,3,Feldspar,106,0.4840182648401826
+pooled,18,Microcline,4,Quartz,10,0.045662100456621
+pooled,18,Microcline,5,Plagioclase,17,0.0776255707762557
+pooled,18,Microcline,6,Foraminifer,0,0.0
+pooled,18,Microcline,7,Fossil fragment,0,0.0
+pooled,18,Microcline,8,Opaque,0,0.0
+pooled,18,Microcline,9,Amphibole,0,0.0
+pooled,18,Microcline,10,Calcareous fossil,0,0.0
+pooled,18,Microcline,11,Red algae,0,0.0
+pooled,18,Microcline,12,Mica,5,0.0228310502283105
+pooled,18,Microcline,13,Calcite,0,0.0
+pooled,18,Microcline,14,Muscovite,0,0.0
+pooled,18,Microcline,15,Heavy mineral,0,0.0
+pooled,18,Microcline,16,Coral,0,0.0
+pooled,18,Microcline,17,Hornblende,0,0.0
+pooled,18,Microcline,18,Microcline,61,0.2785388127853881
+pooled,18,Microcline,19,Pyroxene,0,0.0
+pooled,18,Microcline,20,Dolomite,0,0.0
+pooled,18,Microcline,21,Echinoderm,0,0.0
+pooled,18,Microcline,22,Sanidine,6,0.0273972602739726
+pooled,18,Microcline,23,Crystalline mosaic,0,0.0
+pooled,18,Microcline,24,Other (merged),0,0.0
+pooled,19,Pyroxene,0,Monocrystalline,4,0.00909090909090909
+pooled,19,Pyroxene,1,Rock fragment,51,0.1159090909090909
+pooled,19,Pyroxene,2,Polycrystalline,0,0.0
+pooled,19,Pyroxene,3,Feldspar,39,0.08863636363636364
+pooled,19,Pyroxene,4,Quartz,16,0.03636363636363636
+pooled,19,Pyroxene,5,Plagioclase,52,0.11818181818181818
+pooled,19,Pyroxene,6,Foraminifer,0,0.0
+pooled,19,Pyroxene,7,Fossil fragment,1,0.0022727272727272726
+pooled,19,Pyroxene,8,Opaque,2,0.004545454545454545
+pooled,19,Pyroxene,9,Amphibole,112,0.2545454545454545
+pooled,19,Pyroxene,10,Calcareous fossil,0,0.0
+pooled,19,Pyroxene,11,Red algae,0,0.0
+pooled,19,Pyroxene,12,Mica,8,0.01818181818181818
+pooled,19,Pyroxene,13,Calcite,0,0.0
+pooled,19,Pyroxene,14,Muscovite,3,0.006818181818181818
+pooled,19,Pyroxene,15,Heavy mineral,1,0.0022727272727272726
+pooled,19,Pyroxene,16,Coral,0,0.0
+pooled,19,Pyroxene,17,Hornblende,5,0.011363636363636364
+pooled,19,Pyroxene,18,Microcline,0,0.0
+pooled,19,Pyroxene,19,Pyroxene,122,0.2772727272727273
+pooled,19,Pyroxene,20,Dolomite,0,0.0
+pooled,19,Pyroxene,21,Echinoderm,0,0.0
+pooled,19,Pyroxene,22,Sanidine,0,0.0
+pooled,19,Pyroxene,23,Crystalline mosaic,0,0.0
+pooled,19,Pyroxene,24,Other (merged),24,0.05454545454545454
+pooled,20,Dolomite,0,Monocrystalline,9,0.023936170212765957
+pooled,20,Dolomite,1,Rock fragment,8,0.02127659574468085
+pooled,20,Dolomite,2,Polycrystalline,0,0.0
+pooled,20,Dolomite,3,Feldspar,1,0.0026595744680851063
+pooled,20,Dolomite,4,Quartz,0,0.0
+pooled,20,Dolomite,5,Plagioclase,0,0.0
+pooled,20,Dolomite,6,Foraminifer,2,0.005319148936170213
+pooled,20,Dolomite,7,Fossil fragment,22,0.05851063829787234
+pooled,20,Dolomite,8,Opaque,0,0.0
+pooled,20,Dolomite,9,Amphibole,0,0.0
+pooled,20,Dolomite,10,Calcareous fossil,3,0.007978723404255319
+pooled,20,Dolomite,11,Red algae,2,0.005319148936170213
+pooled,20,Dolomite,12,Mica,0,0.0
+pooled,20,Dolomite,13,Calcite,9,0.023936170212765957
+pooled,20,Dolomite,14,Muscovite,0,0.0
+pooled,20,Dolomite,15,Heavy mineral,1,0.0026595744680851063
+pooled,20,Dolomite,16,Coral,2,0.005319148936170213
+pooled,20,Dolomite,17,Hornblende,0,0.0
+pooled,20,Dolomite,18,Microcline,0,0.0
+pooled,20,Dolomite,19,Pyroxene,0,0.0
+pooled,20,Dolomite,20,Dolomite,275,0.7313829787234043
+pooled,20,Dolomite,21,Echinoderm,0,0.0
+pooled,20,Dolomite,22,Sanidine,0,0.0
+pooled,20,Dolomite,23,Crystalline mosaic,41,0.10904255319148937
+pooled,20,Dolomite,24,Other (merged),1,0.0026595744680851063
+pooled,21,Echinoderm,0,Monocrystalline,4,0.01593625498007968
+pooled,21,Echinoderm,1,Rock fragment,10,0.0398406374501992
+pooled,21,Echinoderm,2,Polycrystalline,0,0.0
+pooled,21,Echinoderm,3,Feldspar,0,0.0
+pooled,21,Echinoderm,4,Quartz,1,0.00398406374501992
+pooled,21,Echinoderm,5,Plagioclase,0,0.0
+pooled,21,Echinoderm,6,Foraminifer,27,0.10756972111553785
+pooled,21,Echinoderm,7,Fossil fragment,53,0.21115537848605578
+pooled,21,Echinoderm,8,Opaque,0,0.0
+pooled,21,Echinoderm,9,Amphibole,0,0.0
+pooled,21,Echinoderm,10,Calcareous fossil,4,0.01593625498007968
+pooled,21,Echinoderm,11,Red algae,14,0.055776892430278883
+pooled,21,Echinoderm,12,Mica,0,0.0
+pooled,21,Echinoderm,13,Calcite,11,0.043824701195219126
+pooled,21,Echinoderm,14,Muscovite,0,0.0
+pooled,21,Echinoderm,15,Heavy mineral,0,0.0
+pooled,21,Echinoderm,16,Coral,5,0.0199203187250996
+pooled,21,Echinoderm,17,Hornblende,0,0.0
+pooled,21,Echinoderm,18,Microcline,0,0.0
+pooled,21,Echinoderm,19,Pyroxene,0,0.0
+pooled,21,Echinoderm,20,Dolomite,0,0.0
+pooled,21,Echinoderm,21,Echinoderm,121,0.4820717131474104
+pooled,21,Echinoderm,22,Sanidine,0,0.0
+pooled,21,Echinoderm,23,Crystalline mosaic,0,0.0
+pooled,21,Echinoderm,24,Other (merged),1,0.00398406374501992
+pooled,22,Sanidine,0,Monocrystalline,6,0.02912621359223301
+pooled,22,Sanidine,1,Rock fragment,1,0.0048543689320388345
+pooled,22,Sanidine,2,Polycrystalline,5,0.024271844660194174
+pooled,22,Sanidine,3,Feldspar,121,0.587378640776699
+pooled,22,Sanidine,4,Quartz,8,0.038834951456310676
+pooled,22,Sanidine,5,Plagioclase,18,0.08737864077669903
+pooled,22,Sanidine,6,Foraminifer,0,0.0
+pooled,22,Sanidine,7,Fossil fragment,0,0.0
+pooled,22,Sanidine,8,Opaque,1,0.0048543689320388345
+pooled,22,Sanidine,9,Amphibole,0,0.0
+pooled,22,Sanidine,10,Calcareous fossil,0,0.0
+pooled,22,Sanidine,11,Red algae,0,0.0
+pooled,22,Sanidine,12,Mica,0,0.0
+pooled,22,Sanidine,13,Calcite,0,0.0
+pooled,22,Sanidine,14,Muscovite,0,0.0
+pooled,22,Sanidine,15,Heavy mineral,0,0.0
+pooled,22,Sanidine,16,Coral,0,0.0
+pooled,22,Sanidine,17,Hornblende,0,0.0
+pooled,22,Sanidine,18,Microcline,13,0.06310679611650485
+pooled,22,Sanidine,19,Pyroxene,0,0.0
+pooled,22,Sanidine,20,Dolomite,0,0.0
+pooled,22,Sanidine,21,Echinoderm,0,0.0
+pooled,22,Sanidine,22,Sanidine,33,0.16019417475728157
+pooled,22,Sanidine,23,Crystalline mosaic,0,0.0
+pooled,22,Sanidine,24,Other (merged),0,0.0
+pooled,23,Crystalline mosaic,0,Monocrystalline,3,0.011857707509881422
+pooled,23,Crystalline mosaic,1,Rock fragment,3,0.011857707509881422
+pooled,23,Crystalline mosaic,2,Polycrystalline,0,0.0
+pooled,23,Crystalline mosaic,3,Feldspar,4,0.015810276679841896
+pooled,23,Crystalline mosaic,4,Quartz,1,0.003952569169960474
+pooled,23,Crystalline mosaic,5,Plagioclase,0,0.0
+pooled,23,Crystalline mosaic,6,Foraminifer,6,0.023715415019762844
+pooled,23,Crystalline mosaic,7,Fossil fragment,27,0.1067193675889328
+pooled,23,Crystalline mosaic,8,Opaque,0,0.0
+pooled,23,Crystalline mosaic,9,Amphibole,0,0.0
+pooled,23,Crystalline mosaic,10,Calcareous fossil,3,0.011857707509881422
+pooled,23,Crystalline mosaic,11,Red algae,1,0.003952569169960474
+pooled,23,Crystalline mosaic,12,Mica,0,0.0
+pooled,23,Crystalline mosaic,13,Calcite,18,0.07114624505928854
+pooled,23,Crystalline mosaic,14,Muscovite,0,0.0
+pooled,23,Crystalline mosaic,15,Heavy mineral,1,0.003952569169960474
+pooled,23,Crystalline mosaic,16,Coral,6,0.023715415019762844
+pooled,23,Crystalline mosaic,17,Hornblende,0,0.0
+pooled,23,Crystalline mosaic,18,Microcline,0,0.0
+pooled,23,Crystalline mosaic,19,Pyroxene,0,0.0
+pooled,23,Crystalline mosaic,20,Dolomite,110,0.43478260869565216
+pooled,23,Crystalline mosaic,21,Echinoderm,0,0.0
+pooled,23,Crystalline mosaic,22,Sanidine,0,0.0
+pooled,23,Crystalline mosaic,23,Crystalline mosaic,69,0.2727272727272727
+pooled,23,Crystalline mosaic,24,Other (merged),1,0.003952569169960474
+pooled,24,Other (merged),0,Monocrystalline,141,0.08752327746741155
+pooled,24,Other (merged),1,Rock fragment,355,0.22036002482929856
+pooled,24,Other (merged),2,Polycrystalline,66,0.040968342644320296
+pooled,24,Other (merged),3,Feldspar,213,0.13221601489757914
+pooled,24,Other (merged),4,Quartz,75,0.04655493482309125
+pooled,24,Other (merged),5,Plagioclase,48,0.0297951582867784
+pooled,24,Other (merged),6,Foraminifer,48,0.0297951582867784
+pooled,24,Other (merged),7,Fossil fragment,77,0.04779639975170701
+pooled,24,Other (merged),8,Opaque,3,0.00186219739292365
+pooled,24,Other (merged),9,Amphibole,161,0.09993792675356922
+pooled,24,Other (merged),10,Calcareous fossil,10,0.006207324643078833
+pooled,24,Other (merged),11,Red algae,19,0.011793916821849782
+pooled,24,Other (merged),12,Mica,46,0.028553693358162633
+pooled,24,Other (merged),13,Calcite,13,0.008069522036002483
+pooled,24,Other (merged),14,Muscovite,8,0.004965859714463066
+pooled,24,Other (merged),15,Heavy mineral,10,0.006207324643078833
+pooled,24,Other (merged),16,Coral,14,0.008690254500310366
+pooled,24,Other (merged),17,Hornblende,39,0.024208566108007448
+pooled,24,Other (merged),18,Microcline,3,0.00186219739292365
+pooled,24,Other (merged),19,Pyroxene,104,0.06455617628801986
+pooled,24,Other (merged),20,Dolomite,23,0.014276846679081317
+pooled,24,Other (merged),21,Echinoderm,4,0.002482929857231533
+pooled,24,Other (merged),22,Sanidine,2,0.0012414649286157666
+pooled,24,Other (merged),23,Crystalline mosaic,19,0.011793916821849782
+pooled,24,Other (merged),24,Other (merged),110,0.06828057107386716
