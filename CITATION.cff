@@ -3,9 +3,7 @@ message: >-
   If you use these materials, please cite the associated article (citation details to be completed on
   publication) and the LITHOS publication by Chacón et al. (2025).
 type: software
-title: >-
-  Taxonomic error structure, polarisation sensitivity and attribution behaviour of a dual-stream vision
-  transformer for thin-section petrography
+title: Evaluating classification and explainability in multimodal petrographic image analysis
 authors:
   - given-names: Thomas James
     family-names: Wood
@@ -29,9 +27,7 @@ keywords:
   - LITHOS
 preferred-citation:
   type: article
-  title: >-
-    Taxonomic error structure, polarisation sensitivity and attribution behaviour of a dual-stream vision
-    transformer for thin-section petrography
+  title: Evaluating classification and explainability in multimodal petrographic image analysis
   authors:
     - given-names: Thomas James
       family-names: Wood

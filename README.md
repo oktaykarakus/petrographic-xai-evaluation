@@ -1,4 +1,4 @@
-# Taxonomic error structure, polarisation sensitivity and attribution behaviour of a dual-stream vision transformer for thin-section petrography
+# Evaluating classification and explainability in multimodal petrographic image analysis
 
 Reproducibility materials for the manuscript of the same title by Thomas James Wood, Oktay Karakuş and Can Eyüpoğlu, prepared for *Scientific Reports*.
 
